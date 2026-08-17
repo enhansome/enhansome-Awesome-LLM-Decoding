@@ -370,21 +370,21 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**\
   *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao*.
-  \[[pdf](https://arxiv.org/pdf/2401.10774)], \[[code](https://github.com/FasterDecoding/Medusa) ⭐ 2,766 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25]
+  \[[pdf](https://arxiv.org/pdf/2401.10774)], \[[code](https://github.com/FasterDecoding/Medusa) ⭐ 2,767 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25]
   ![](https://img.shields.io/badge/Medusa-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,499 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,501 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,499 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,501 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/EMNLP2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -850,4 +850,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

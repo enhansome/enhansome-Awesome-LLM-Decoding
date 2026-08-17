@@ -326,7 +326,7 @@
             "last_commit": "2024-06-25T12:23:04Z",
             "owner": "FasterDecoding",
             "repo": "Medusa",
-            "stars": 2766
+            "stars": 2767
           }
         },
         {
@@ -340,7 +340,7 @@
             "last_commit": "2026-02-20T02:53:29Z",
             "owner": "SafeAILab",
             "repo": "EAGLE",
-            "stars": 2499
+            "stars": 2501
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-02-20T02:53:29Z",
             "owner": "SafeAILab",
             "repo": "EAGLE",
-            "stars": 2499
+            "stars": 2501
           }
         },
         {
@@ -814,7 +814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:50:56.094Z",
+    "last_updated": "2026-08-17T15:54:08.634Z",
     "original_repository": "wang2226/Awesome-LLM-Decoding",
     "original_repository_sha": "b92021bcc955eb13d967b58202de63a3ad390289",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Decoding",
