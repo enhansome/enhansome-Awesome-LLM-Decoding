@@ -1,821 +1,865 @@
 {
   "items": [
     {
-      "description": "In this paper, we survey and categorize research on decoding methods for foundation models along two key dimensions: paradigms and applications. We identify three primary paradigms in recent decoding algorithms for large generative models: contrastive decoding, guided decoding, and parallel decoding.",
-      "items": [],
-      "title": "About"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language ModelsYung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 681029130,
+                    "language": "Python",
+                    "last_commit": "2026-07-12T00:53:57Z",
+                    "owner": "voidism",
+                    "repo": "DoLa",
+                    "stars": 558
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive DecodingSicong Leng, Hang Zhang, Guanzheng Chen, Xin Li, Shijian Lu, Chunyan Miao, Lidong Bing. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 723675517,
+                    "language": "Python",
+                    "last_commit": "2024-10-07T07:32:49Z",
+                    "owner": "DAMO-NLP-SG",
+                    "repo": "VCD",
+                    "stars": 412
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Contrastive Decoding: Open-ended Text Generation as OptimizationXiang Lisa Li, Ari Holtzman, Daniel Fried, Percy Liang, Jason Eisner, Tatsunori Hashimoto, Luke Zettlemoyer, Mike Lewis. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 548827310,
+                    "language": "Python",
+                    "last_commit": "2022-11-14T20:58:20Z",
+                    "owner": "XiangLi1999",
+                    "repo": "ContrastiveDecoding",
+                    "stars": 206
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-ExpertsAlisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 373678157,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-05-24T18:58:54Z",
+                    "owner": "alisawuffles",
+                    "repo": "DExperts",
+                    "stars": 119
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Trusting Your Evidence: Hallucinate Less with Context-aware DecodingWeijia Shi, Xiaochuang Han, Mike Lewis, Yulia Tsvetkov, Luke Zettlemoyer, Wen-tau Yih. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 699188644,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T04:23:06Z",
+                    "owner": "xhan77",
+                    "repo": "context-aware-decoding",
+                    "stars": 58
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Unchosen Experts Can Contribute Too: Unleashing MoE Models' Power by Self-ContrastChufan Shi, Cheng Yang, Xinyu Zhu, Jiahao Wang, Taiqiang Wu, Siheng Li, Deng Cai, Yujiu Yang, Yu Meng. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 805360891,
+                    "language": "Python",
+                    "last_commit": "2024-05-24T12:14:28Z",
+                    "owner": "DavidFanzz",
+                    "repo": "SCMoE",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ROSE Doesn't Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive DecodingQihuang Zhong, Liang Ding, Juhua Liu, Bo Du, Dacheng Tao. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 933984080,
+                    "language": "Python",
+                    "last_commit": "2025-02-17T04:41:48Z",
+                    "owner": "WHU-ZQH",
+                    "repo": "ROSE",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Entropy Guided Extrapolative Decoding to Improve Factuality in Large Language ModelsSouvik Das, Lifeng Jin, Linfeng Song, Haitao Mi, Baolin Peng, Dong Yu. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 786464904,
+                    "language": null,
+                    "last_commit": "2024-04-14T14:48:34Z",
+                    "owner": "souvikdgp16",
+                    "repo": "extrapolative_decoding",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Contrastive"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Alphazero-like Tree-Search can Guide Large Language Model Decoding and TrainingXidong Feng, Ziyu Wan, Muning Wen, Stephen Marcus McAleer, Ying Wen, Weinan Zhang, Jun Wang. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 698202673,
+                    "language": "Python",
+                    "last_commit": "2024-05-26T22:52:50Z",
+                    "owner": "waterhorse1",
+                    "repo": "LLM_Tree_Search",
+                    "stars": 287
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Monitor-Guided Decoding of Code LMs with Static Analysis of Repository ContextLakshya A Agrawal, Aditya Kanade, Navin Goyal, Shuvendu K. Lahiri, Sriram K. Rajamani. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 714439630,
+                    "language": "Python",
+                    "last_commit": "2024-08-08T18:15:14Z",
+                    "owner": "microsoft",
+                    "repo": "monitors4codegen",
+                    "stars": 281
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware DecodingZhangchen Xu, Fengqing Jiang, Luyao Niu, Jinyuan Jia, Bill Yuchen Lin, Radha Poovendran. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 759247975,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-07-19T07:43:36Z",
+                    "owner": "uw-nsl",
+                    "repo": "SafeDecoding",
+                    "stars": 153
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language ModelsFushuo Huo, Wenchao Xu, Zhong Zhang, Haozhao Wang, Zhicheng Chen, Peilin Zhao. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 836705697,
+                    "language": "Python",
+                    "last_commit": "2025-01-16T06:58:41Z",
+                    "owner": "huofushuo",
+                    "repo": "SID",
+                    "stars": 139
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FUDGE: Controlled Text Generation With Future DiscriminatorsKevin Yang, Dan Klein. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 351279410,
+                    "language": "JavaScript",
+                    "last_commit": "2022-08-24T00:50:18Z",
+                    "owner": "yangkevin2",
+                    "repo": "naacl-2021-fudge-controlled-generation",
+                    "stars": 102
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NaturalProver: Grounded Mathematical Proof Generation with Language ModelsSean Welleck, Jiacheng Liu, Ximing Lu, Hannaneh Hajishirzi, Yejin Choi. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 495896653,
+                    "language": "Python",
+                    "last_commit": "2023-03-24T23:29:07Z",
+                    "owner": "wellecks",
+                    "repo": "naturalprover",
+                    "stars": 40
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Critic-Guided Decoding for Controlled Text GenerationMinbeom Kim, Hwanhee Lee, Kang Min Yoo, Joonsuk Park, Hwaran Lee, Kyomin Jung. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 636082266,
+                    "language": "Python",
+                    "last_commit": "2023-08-06T03:07:29Z",
+                    "owner": "minbeomkim",
+                    "repo": "CriticControl",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "From Uncertainty to Trust: Enhancing Reliability in Vision-Language Models with Uncertainty-Guided Dropout DecodingYixiong Fang, Ziran Yang, Zhaorun Chen, Zhuokai Zhao, Jiawei Zhou. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 795515208,
+                    "language": "Python",
+                    "last_commit": "2024-12-08T07:56:02Z",
+                    "owner": "kigb",
+                    "repo": "DropoutDecoding",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought ReasoningTinghui Zhu, Kai Zhang, Jian Xie, Yu Su. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 749275500,
+                    "language": "Python",
+                    "last_commit": "2024-06-14T15:04:07Z",
+                    "owner": "OSU-NLP-Group",
+                    "repo": "Deductive-Beam-Search",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Seeing is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided DecodingAilin Deng, Zhirui Chen, Bryan Hooi. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 785118483,
+                    "language": "Python",
+                    "last_commit": "2024-08-01T06:54:36Z",
+                    "owner": "d-ailin",
+                    "repo": "CLIP-Guided-Decoding",
+                    "stars": 18
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "A Data-Driven Guided Decoding Mechanism for Diagnostic CaptioningPanagiotis Kaliosis, John Pavlopoulos, Foivos Charalampakos, Georgios Moschovis, Ion Androutsopoulos. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 804293688,
+                    "language": "Python",
+                    "last_commit": "2024-09-01T19:44:11Z",
+                    "owner": "nlpaueb",
+                    "repo": "dmmcs",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Guiding LLMs The Right Way: Fast, Non-Invasive Constrained GenerationLuca Beurer-Kellner, Marc Fischer, Martin Vechev. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 809790678,
+                    "language": null,
+                    "last_commit": "2024-06-03T13:05:47Z",
+                    "owner": "eth-sri",
+                    "repo": "domino",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Guided"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding HeadsTianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 689541424,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-06-25T12:23:04Z",
+                    "owner": "FasterDecoding",
+                    "repo": "Medusa",
+                    "stars": 2768
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EAGLE: Speculative Sampling Requires Rethinking Feature UncertaintyYuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 728820625,
+                    "language": "Python",
+                    "last_commit": "2026-02-20T02:53:29Z",
+                    "owner": "SafeAILab",
+                    "repo": "EAGLE",
+                    "stars": 2502
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EAGLE-2: Faster Inference of Language Models with Dynamic Draft TreesYuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 728820625,
+                    "language": "Python",
+                    "last_commit": "2026-02-20T02:53:29Z",
+                    "owner": "SafeAILab",
+                    "repo": "EAGLE",
+                    "stars": 2502
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and VerificationXupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 160988469,
+                    "language": "C++",
+                    "last_commit": "2026-08-17T16:33:19Z",
+                    "owner": "flexflow",
+                    "repo": "flexflow-train",
+                    "stars": 1898
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Break the Sequential Dependency of LLM Inference Using Lookahead DecodingYichao Fu, Peter Bailis, Ion Stoica, Hao Zhang. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 721748445,
+                    "language": "Python",
+                    "last_commit": "2025-03-06T07:17:19Z",
+                    "owner": "hao-ai-lab",
+                    "repo": "LookaheadDecoding",
+                    "stars": 1342
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Draft& Verify: Lossless Large Language Model Acceleration via Self-Speculative DecodingJun Zhang, Jue Wang, Huan Li, Lidan Shou, Ke Chen, Gang Chen, Sharad Mehrotra. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 693426592,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-02-13T16:26:24Z",
+                    "owner": "dilab-zju",
+                    "repo": "self-speculative-decoding",
+                    "stars": 231
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Accelerating Transformer Inference for Translation via Parallel DecodingAndrea Santilli, Silvio Severino, Emilian Postolache, Valentino Maiorca, Michele Mancusi, Riccardo Marin, Emanuele Rodolà. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 636199466,
+                    "language": "Python",
+                    "last_commit": "2024-03-15T07:54:50Z",
+                    "owner": "teelinsan",
+                    "repo": "parallel-decoding",
+                    "stars": 124
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference AccelerationHeming Xia, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 870092751,
+                    "language": "Python",
+                    "last_commit": "2025-02-21T14:13:46Z",
+                    "owner": "hemingkx",
+                    "repo": "SWIFT",
+                    "stars": 71
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Online Speculative DecodingXiaoxuan Liu, Lanxiang Hu, Peter Bailis, Alvin Cheung, Zhijie Deng, Ion Stoica, Hao Zhang. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 673959226,
+                    "language": "Python",
+                    "last_commit": "2024-12-03T06:34:57Z",
+                    "owner": "LiuXiaoxuanPKU",
+                    "repo": "OSD",
+                    "stars": 68
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq GenerationHeming Xia, Tao Ge, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 476163648,
+                    "language": "Python",
+                    "last_commit": "2023-12-09T14:23:00Z",
+                    "owner": "hemingkx",
+                    "repo": "SpecDec",
+                    "stars": 47
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Superposed Decoding: Multiple Generations from a Single Autoregressive Inference PassEthan Shen, Alan Fan, Sarah M. Pratt, Jae Sung Park, Matthew Wallingford, Sham M. Kakade, Ari Holtzman, Ranjay Krishna, Ali Farhadi, Aditya Kusupati. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 805048642,
+                    "language": "Python",
+                    "last_commit": "2024-08-22T01:08:10Z",
+                    "owner": "RAIVNLab",
+                    "repo": "SuperposedDecoding",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification Ziyi Wang, Siva Rajesh Kasa, Ankith M S, Santhosh Kumar Kasa, Jiaru Zou, Sumit Negi, Ruqi Zhang, Nan Jiang, Qifan Song. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1147722006,
+                    "language": "Python",
+                    "last_commit": "2026-02-21T00:58:41Z",
+                    "owner": "comeusr",
+                    "repo": "diversed",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Parallel"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Paradigms"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "MLLM can see? Dynamic Correction Decoding for Hallucination MitigationChenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, Shumin Deng, Huajun Chen. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 864950608,
+                        "language": "Python",
+                        "last_commit": "2025-09-11T02:18:25Z",
+                        "owner": "zjunlp",
+                        "repo": "Deco",
+                        "stars": 148
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Integrative Decoding: Improve Factuality via Implicit Self-consistencyYi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, Kaishuai Xu, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 866560518,
+                        "language": "Python",
+                        "last_commit": "2025-04-12T02:10:59Z",
+                        "owner": "YiCheng98",
+                        "repo": "IntegrativeDecoding",
+                        "stars": 33
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "DeCoRe: Decoding by Contrasting Retrieval Heads to Mitigate HallucinationsAryo Pradipta Gema, Chen Jin, Ahmed Abdulaal, Tom Diethe, Philip Teare, Beatrice Alex, Pasquale Minervini, Amrutha Saseendran. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 822595086,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2024-12-18T22:28:07Z",
+                        "owner": "aryopg",
+                        "repo": "decore",
+                        "stars": 30
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language ModelsYeji Park, Deokyeong Lee, Junsuk Choe, Buru Chang. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 847232260,
+                        "language": "Python",
+                        "last_commit": "2024-09-26T07:23:06Z",
+                        "owner": "yejipark-m",
+                        "repo": "ConVis",
+                        "stars": 25
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language ModelsYi-Lun Lee, Yi-Hsuan Tsai, Wei-Chen Chiu. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 897018894,
+                        "language": null,
+                        "last_commit": "2024-12-10T08:52:13Z",
+                        "owner": "YiLunLee",
+                        "repo": "VCD_Analysis",
+                        "stars": 9
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Mitigate Hallucination"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "SafeInfer: Context Adaptive Decoding Time Safety Alignment for Large Language ModelsSomnath Banerjee, Sayan Layek, Soham Tripathy, Shanu Kumar, Animesh Mukherjee, Rima Hazra. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 916535719,
+                        "language": "Python",
+                        "last_commit": "2025-01-14T09:51:01Z",
+                        "owner": "NeuralSentinel",
+                        "repo": "SafeInfer",
+                        "stars": 23
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Decoding Matters: Addressing Amplification Bias and Homogeneity Issue for LLM-based RecommendationKeqin Bao, Jizhi Zhang, Yang Zhang, Xinyue Huo, Chong Chen, Fuli Feng. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 849784479,
+                        "language": "Python",
+                        "last_commit": "2024-09-05T01:47:34Z",
+                        "owner": "SAI990323",
+                        "repo": "DecodingMatters",
+                        "stars": 21
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented GenerationHaoran Wang, Xiongxiao Xu, Baixiang Huang, Kai Shu. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1033005305,
+                        "language": "Python",
+                        "last_commit": "2025-08-06T06:51:27Z",
+                        "owner": "wang2226",
+                        "repo": "PAD",
+                        "stars": 8
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Improve Safety"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Learning to Decode Collaboratively with Multiple Language ModelsZejiang Shen, Hunter Lang, Bailin Wang, Yoon Kim, David Sontag. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 767130020,
+                        "language": "Python",
+                        "last_commit": "2024-05-07T15:13:10Z",
+                        "owner": "clinicalml",
+                        "repo": "co-llm",
+                        "stars": 129
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Distillation Contrastive Decoding: Improving LLMs Reasoning with Contrastive Decoding and DistillationPhuc Phan, Hieu Tran, Long Phan. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 758500705,
+                        "language": "Python",
+                        "last_commit": "2024-02-27T11:06:28Z",
+                        "owner": "pphuc25",
+                        "repo": "distil-cd",
+                        "stars": 35
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "SEED: Accelerating Reasoning Tree Construction via Scheduled Speculative DecodingZhenglin Wang, Jialong Wu, Yilong Lai, Congzhi Zhang, Deyu Zhou. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 814597083,
+                        "language": "Python",
+                        "last_commit": "2024-12-18T09:08:05Z",
+                        "owner": "Linking-ai",
+                        "repo": "SEED",
+                        "stars": 10
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Self-Para-Consistency: Improving Reasoning Tasks at Low Cost for Large Language ModelsWenqing Chen, Weicheng Wang, Zhixuan Chu, Kui Ren, Zibin Zheng, Zhichao Lu. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 814597083,
+                        "language": "Python",
+                        "last_commit": "2024-12-18T09:08:05Z",
+                        "owner": "Linking-ai",
+                        "repo": "SEED",
+                        "stars": 10
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Improve Reasoning"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Improve Model Alignment"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "REST: Retrieval-Based Speculative DecodingZhenyu He, Zexuan Zhong, Tianle Cai, Jason Lee, Di He. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 718875034,
+                        "language": "C",
+                        "last_commit": "2026-03-05T12:38:16Z",
+                        "owner": "FasterDecoding",
+                        "repo": "REST",
+                        "stars": 220
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Planning Ahead in Generative Retrieval: Guiding Autoregressive Generation through Simultaneous DecodingHansi Zeng, Chen Luo, Hamed Zamani. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 748416196,
+                        "language": "Python",
+                        "last_commit": "2024-04-24T14:57:01Z",
+                        "owner": "HansiZeng",
+                        "repo": "PAG",
+                        "stars": 32
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Nonparametric Decoding for Generative RetrievalHyunji Lee, JaeYoung Kim, Hoyeon Chang, Hanseok Oh, Sohee Yang, Vladimir Karpukhin, Yi Lu, Minjoon Seo. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 546094054,
+                        "language": null,
+                        "last_commit": "2022-10-06T02:36:53Z",
+                        "owner": "amy-hyunji",
+                        "repo": "Contextualized-Generative-Retrieval",
+                        "stars": 16
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "RAG"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Selective Prompt Anchoring for Code GenerationYuan Tian, Tianyi Zhang. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 804099462,
+                        "language": "Python",
+                        "last_commit": "2026-04-24T22:01:34Z",
+                        "owner": "magic-YuanTian",
+                        "repo": "Selective-Prompt-Anchoring",
+                        "stars": 100
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "LEVER: Learning to Verify Language-to-Code Generation with ExecutionAnsong Ni, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, Xi Victoria Lin. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 602401834,
+                        "language": "Python",
+                        "last_commit": "2023-07-05T09:06:23Z",
+                        "owner": "niansong1996",
+                        "repo": "lever",
+                        "stars": 90
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Hot or Cold? Adaptive Temperature Sampling for Code Generation with Large Language ModelsYuqi Zhu, Jia Li, Ge Li, YunFei Zhao, Jia Li, Zhi Jin, Hong Mei. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 731461111,
+                        "language": "Python",
+                        "last_commit": "2023-12-28T08:32:25Z",
+                        "owner": "LJ2lijia",
+                        "repo": "AdapT",
+                        "stars": 9
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "DocCGen: Document-based Controlled Code GenerationSameer Pimparkhede, Mehant Kammakomati, Srikanth G. Tamilselvam, Prince Kumar, Ashok Pon Kumar, Pushpak Bhattacharyya. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 679666620,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2024-12-20T10:50:51Z",
+                        "owner": "sameerp30",
+                        "repo": "Structured-generation",
+                        "stars": 1
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Code Generation"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Improve Generation Tasks"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Applications"
+        }
+      ],
       "title": "Papers"
-    },
-    {
-      "description": "Abbreviation: Conference: Model:",
-      "items": [],
-      "title": "Keywords Convention"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Paradigms"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language ModelsYung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-12T00:53:57Z",
-            "owner": "voidism",
-            "repo": "DoLa",
-            "stars": 558
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive DecodingSicong Leng, Hang Zhang, Guanzheng Chen, Xin Li, Shijian Lu, Chunyan Miao, Lidong Bing. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-07T07:32:49Z",
-            "owner": "DAMO-NLP-SG",
-            "repo": "VCD",
-            "stars": 412
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Contrastive Decoding: Open-ended Text Generation as OptimizationXiang Lisa Li, Ari Holtzman, Daniel Fried, Percy Liang, Jason Eisner, Tatsunori Hashimoto, Luke Zettlemoyer, Mike Lewis. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-11-14T20:58:20Z",
-            "owner": "XiangLi1999",
-            "repo": "ContrastiveDecoding",
-            "stars": 206
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-ExpertsAlisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-05-24T18:58:54Z",
-            "owner": "alisawuffles",
-            "repo": "DExperts",
-            "stars": 119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Trusting Your Evidence: Hallucinate Less with Context-aware DecodingWeijia Shi, Xiaochuang Han, Mike Lewis, Yulia Tsvetkov, Luke Zettlemoyer, Wen-tau Yih. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-18T04:23:06Z",
-            "owner": "xhan77",
-            "repo": "context-aware-decoding",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Unchosen Experts Can Contribute Too: Unleashing MoE Models' Power by Self-ContrastChufan Shi, Cheng Yang, Xinyu Zhu, Jiahao Wang, Taiqiang Wu, Siheng Li, Deng Cai, Yujiu Yang, Yu Meng. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-24T12:14:28Z",
-            "owner": "DavidFanzz",
-            "repo": "SCMoE",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ROSE Doesn't Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive DecodingQihuang Zhong, Liang Ding, Juhua Liu, Bo Du, Dacheng Tao. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-17T04:41:48Z",
-            "owner": "WHU-ZQH",
-            "repo": "ROSE",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Entropy Guided Extrapolative Decoding to Improve Factuality in Large Language ModelsSouvik Das, Lifeng Jin, Linfeng Song, Haitao Mi, Baolin Peng, Dong Yu. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-04-14T14:48:34Z",
-            "owner": "souvikdgp16",
-            "repo": "extrapolative_decoding",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Contrastive"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Alphazero-like Tree-Search can Guide Large Language Model Decoding and TrainingXidong Feng, Ziyu Wan, Muning Wen, Stephen Marcus McAleer, Ying Wen, Weinan Zhang, Jun Wang. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-26T22:52:50Z",
-            "owner": "waterhorse1",
-            "repo": "LLM_Tree_Search",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Monitor-Guided Decoding of Code LMs with Static Analysis of Repository ContextLakshya A Agrawal, Aditya Kanade, Navin Goyal, Shuvendu K. Lahiri, Sriram K. Rajamani. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-08T18:15:14Z",
-            "owner": "microsoft",
-            "repo": "monitors4codegen",
-            "stars": 281
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware DecodingZhangchen Xu, Fengqing Jiang, Luyao Niu, Jinyuan Jia, Bill Yuchen Lin, Radha Poovendran. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-07-19T07:43:36Z",
-            "owner": "uw-nsl",
-            "repo": "SafeDecoding",
-            "stars": 153
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language ModelsFushuo Huo, Wenchao Xu, Zhong Zhang, Haozhao Wang, Zhicheng Chen, Peilin Zhao. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-16T06:58:41Z",
-            "owner": "huofushuo",
-            "repo": "SID",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FUDGE: Controlled Text Generation With Future DiscriminatorsKevin Yang, Dan Klein. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-08-24T00:50:18Z",
-            "owner": "yangkevin2",
-            "repo": "naacl-2021-fudge-controlled-generation",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NaturalProver: Grounded Mathematical Proof Generation with Language ModelsSean Welleck, Jiacheng Liu, Ximing Lu, Hannaneh Hajishirzi, Yejin Choi. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-24T23:29:07Z",
-            "owner": "wellecks",
-            "repo": "naturalprover",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Critic-Guided Decoding for Controlled Text GenerationMinbeom Kim, Hwanhee Lee, Kang Min Yoo, Joonsuk Park, Hwaran Lee, Kyomin Jung. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-06T03:07:29Z",
-            "owner": "minbeomkim",
-            "repo": "CriticControl",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "From Uncertainty to Trust: Enhancing Reliability in Vision-Language Models with Uncertainty-Guided Dropout DecodingYixiong Fang, Ziran Yang, Zhaorun Chen, Zhuokai Zhao, Jiawei Zhou. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-08T07:56:02Z",
-            "owner": "kigb",
-            "repo": "DropoutDecoding",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought ReasoningTinghui Zhu, Kai Zhang, Jian Xie, Yu Su. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-14T15:04:07Z",
-            "owner": "OSU-NLP-Group",
-            "repo": "Deductive-Beam-Search",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Seeing is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided DecodingAilin Deng, Zhirui Chen, Bryan Hooi. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-01T06:54:36Z",
-            "owner": "d-ailin",
-            "repo": "CLIP-Guided-Decoding",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A Data-Driven Guided Decoding Mechanism for Diagnostic CaptioningPanagiotis Kaliosis, John Pavlopoulos, Foivos Charalampakos, Georgios Moschovis, Ion Androutsopoulos. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-01T19:44:11Z",
-            "owner": "nlpaueb",
-            "repo": "dmmcs",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Guiding LLMs The Right Way: Fast, Non-Invasive Constrained GenerationLuca Beurer-Kellner, Marc Fischer, Martin Vechev. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-03T13:05:47Z",
-            "owner": "eth-sri",
-            "repo": "domino",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Guided"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding HeadsTianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-06-25T12:23:04Z",
-            "owner": "FasterDecoding",
-            "repo": "Medusa",
-            "stars": 2767
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EAGLE: Speculative Sampling Requires Rethinking Feature UncertaintyYuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-20T02:53:29Z",
-            "owner": "SafeAILab",
-            "repo": "EAGLE",
-            "stars": 2502
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EAGLE-2: Faster Inference of Language Models with Dynamic Draft TreesYuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-20T02:53:29Z",
-            "owner": "SafeAILab",
-            "repo": "EAGLE",
-            "stars": 2502
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and VerificationXupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T16:33:19Z",
-            "owner": "flexflow",
-            "repo": "flexflow-train",
-            "stars": 1898
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Break the Sequential Dependency of LLM Inference Using Lookahead DecodingYichao Fu, Peter Bailis, Ion Stoica, Hao Zhang. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-06T07:17:19Z",
-            "owner": "hao-ai-lab",
-            "repo": "LookaheadDecoding",
-            "stars": 1342
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Draft& Verify: Lossless Large Language Model Acceleration via Self-Speculative DecodingJun Zhang, Jue Wang, Huan Li, Lidan Shou, Ke Chen, Gang Chen, Sharad Mehrotra. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-02-13T16:26:24Z",
-            "owner": "dilab-zju",
-            "repo": "self-speculative-decoding",
-            "stars": 231
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Accelerating Transformer Inference for Translation via Parallel DecodingAndrea Santilli, Silvio Severino, Emilian Postolache, Valentino Maiorca, Michele Mancusi, Riccardo Marin, Emanuele Rodolà. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-15T07:54:50Z",
-            "owner": "teelinsan",
-            "repo": "parallel-decoding",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference AccelerationHeming Xia, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-21T14:13:46Z",
-            "owner": "hemingkx",
-            "repo": "SWIFT",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Online Speculative DecodingXiaoxuan Liu, Lanxiang Hu, Peter Bailis, Alvin Cheung, Zhijie Deng, Ion Stoica, Hao Zhang. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-03T06:34:57Z",
-            "owner": "LiuXiaoxuanPKU",
-            "repo": "OSD",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq GenerationHeming Xia, Tao Ge, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-09T14:23:00Z",
-            "owner": "hemingkx",
-            "repo": "SpecDec",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Superposed Decoding: Multiple Generations from a Single Autoregressive Inference PassEthan Shen, Alan Fan, Sarah M. Pratt, Jae Sung Park, Matthew Wallingford, Sham M. Kakade, Ari Holtzman, Ranjay Krishna, Ali Farhadi, Aditya Kusupati. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-22T01:08:10Z",
-            "owner": "RAIVNLab",
-            "repo": "SuperposedDecoding",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification Ziyi Wang, Siva Rajesh Kasa, Ankith M S, Santhosh Kumar Kasa, Jiaru Zou, Sumit Negi, Ruqi Zhang, Nan Jiang, Qifan Song. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-21T00:58:41Z",
-            "owner": "comeusr",
-            "repo": "diversed",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Parallel"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Applications"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Improve Model Alignment"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MLLM can see? Dynamic Correction Decoding for Hallucination MitigationChenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, Shumin Deng, Huajun Chen. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-11T02:18:25Z",
-            "owner": "zjunlp",
-            "repo": "Deco",
-            "stars": 148
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Integrative Decoding: Improve Factuality via Implicit Self-consistencyYi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, Kaishuai Xu, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-12T02:10:59Z",
-            "owner": "YiCheng98",
-            "repo": "IntegrativeDecoding",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeCoRe: Decoding by Contrasting Retrieval Heads to Mitigate HallucinationsAryo Pradipta Gema, Chen Jin, Ahmed Abdulaal, Tom Diethe, Philip Teare, Beatrice Alex, Pasquale Minervini, Amrutha Saseendran. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-12-18T22:28:07Z",
-            "owner": "aryopg",
-            "repo": "decore",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language ModelsYeji Park, Deokyeong Lee, Junsuk Choe, Buru Chang. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-26T07:23:06Z",
-            "owner": "yejipark-m",
-            "repo": "ConVis",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language ModelsYi-Lun Lee, Yi-Hsuan Tsai, Wei-Chen Chiu. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-12-10T08:52:13Z",
-            "owner": "YiLunLee",
-            "repo": "VCD_Analysis",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Mitigate Hallucination"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SafeInfer: Context Adaptive Decoding Time Safety Alignment for Large Language ModelsSomnath Banerjee, Sayan Layek, Soham Tripathy, Shanu Kumar, Animesh Mukherjee, Rima Hazra. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-14T09:51:01Z",
-            "owner": "NeuralSentinel",
-            "repo": "SafeInfer",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Decoding Matters: Addressing Amplification Bias and Homogeneity Issue for LLM-based RecommendationKeqin Bao, Jizhi Zhang, Yang Zhang, Xinyue Huo, Chong Chen, Fuli Feng. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-05T01:47:34Z",
-            "owner": "SAI990323",
-            "repo": "DecodingMatters",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented GenerationHaoran Wang, Xiongxiao Xu, Baixiang Huang, Kai Shu. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-06T06:51:27Z",
-            "owner": "wang2226",
-            "repo": "PAD",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Improve Safety"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Learning to Decode Collaboratively with Multiple Language ModelsZejiang Shen, Hunter Lang, Bailin Wang, Yoon Kim, David Sontag. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-07T15:13:10Z",
-            "owner": "clinicalml",
-            "repo": "co-llm",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Distillation Contrastive Decoding: Improving LLMs Reasoning with Contrastive Decoding and DistillationPhuc Phan, Hieu Tran, Long Phan. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-27T11:06:28Z",
-            "owner": "pphuc25",
-            "repo": "distil-cd",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SEED: Accelerating Reasoning Tree Construction via Scheduled Speculative DecodingZhenglin Wang, Jialong Wu, Yilong Lai, Congzhi Zhang, Deyu Zhou. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-18T09:08:05Z",
-            "owner": "Linking-ai",
-            "repo": "SEED",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Self-Para-Consistency: Improving Reasoning Tasks at Low Cost for Large Language ModelsWenqing Chen, Weicheng Wang, Zhixuan Chu, Kui Ren, Zibin Zheng, Zhichao Lu. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-18T09:08:05Z",
-            "owner": "Linking-ai",
-            "repo": "SEED",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Improve Reasoning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Improve Generation Tasks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "REST: Retrieval-Based Speculative DecodingZhenyu He, Zexuan Zhong, Tianle Cai, Jason Lee, Di He. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-03-05T12:38:16Z",
-            "owner": "FasterDecoding",
-            "repo": "REST",
-            "stars": 220
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Planning Ahead in Generative Retrieval: Guiding Autoregressive Generation through Simultaneous DecodingHansi Zeng, Chen Luo, Hamed Zamani. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-24T14:57:01Z",
-            "owner": "HansiZeng",
-            "repo": "PAG",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nonparametric Decoding for Generative RetrievalHyunji Lee, JaeYoung Kim, Hoyeon Chang, Hanseok Oh, Sohee Yang, Vladimir Karpukhin, Yi Lu, Minjoon Seo. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-10-06T02:36:53Z",
-            "owner": "amy-hyunji",
-            "repo": "Contextualized-Generative-Retrieval",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "RAG"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Selective Prompt Anchoring for Code GenerationYuan Tian, Tianyi Zhang. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-24T22:01:34Z",
-            "owner": "magic-YuanTian",
-            "repo": "Selective-Prompt-Anchoring",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LEVER: Learning to Verify Language-to-Code Generation with ExecutionAnsong Ni, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, Xi Victoria Lin. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-05T09:06:23Z",
-            "owner": "niansong1996",
-            "repo": "lever",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hot or Cold? Adaptive Temperature Sampling for Code Generation with Large Language ModelsYuqi Zhu, Jia Li, Ge Li, YunFei Zhao, Jia Li, Zhi Jin, Hong Mei. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-28T08:32:25Z",
-            "owner": "LJ2lijia",
-            "repo": "AdapT",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DocCGen: Document-based Controlled Code GenerationSameer Pimparkhede, Mehant Kammakomati, Srikanth G. Tamilselvam, Prince Kumar, Ashok Pon Kumar, Pushpak Bhattacharyya. [pdf",
-          "description": "], [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-12-20T10:50:51Z",
-            "owner": "sameerp30",
-            "repo": "Structured-generation",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Code Generation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Improve Generation Efficiency"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Domain-Specific Applications"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Citation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:59:29.638Z",
+    "last_updated": "2026-08-19T12:09:05.990Z",
     "original_repository": "wang2226/Awesome-LLM-Decoding",
+    "original_repository_id": 904466263,
     "original_repository_sha": "b92021bcc955eb13d967b58202de63a3ad390289",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Decoding",
     "enhanced_repository_description": null,
