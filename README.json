@@ -348,7 +348,7 @@
                     "last_commit": "2026-02-20T02:53:29Z",
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2502
+                    "stars": 2504
                   }
                 },
                 {
@@ -363,7 +363,7 @@
                     "last_commit": "2026-02-20T02:53:29Z",
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2502
+                    "stars": 2504
                   }
                 },
                 {
@@ -663,7 +663,7 @@
                         "last_commit": "2024-05-07T15:13:10Z",
                         "owner": "clinicalml",
                         "repo": "co-llm",
-                        "stars": 129
+                        "stars": 130
                       }
                     },
                     {
@@ -857,10 +857,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:00:14.496Z",
+    "last_updated": "2026-08-20T16:01:43.742Z",
     "original_repository": "wang2226/Awesome-LLM-Decoding",
     "original_repository_id": 904466263,
-    "original_repository_sha": "b92021bcc955eb13d967b58202de63a3ad390289",
+    "original_repository_sha": "0d8ba25f682f7043973fe4bea96c279ddd328a26",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Decoding",
     "enhanced_repository_description": null,
     "title": "Awesome-L(V)LM-Decoding with stars"

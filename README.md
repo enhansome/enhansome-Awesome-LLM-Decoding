@@ -5,6 +5,7 @@
 # Awesome-L(V)LM-Decoding with stars
 
 [![ACM](https://img.shields.io/badge/ACM-Paper-0085CA?logo=acm\&logoColor=white)](https://dl.acm.org/doi/10.1145/3820356.3820357)
+[![arXiv](https://img.shields.io/badge/arXiv-2608.14797-b31b1b.svg)](https://arxiv.org/pdf/2608.14797)
 [![Preprint](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square\&logo=researchgate\&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.32726.36160)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
@@ -377,14 +378,14 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,502 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,504 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,502 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,504 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/EMNLP2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -616,7 +617,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Learning to Decode Collaboratively with Multiple Language Models**\
   *Zejiang Shen, Hunter Lang, Bailin Wang, Yoon Kim, David Sontag*.
-  \[[pdf](https://aclanthology.org/2024.acl-long.701.pdf)], \[[code](https://github.com/clinicalml/co-llm) ⭐ 129 | 🐛 5 | 🌐 Python | 📅 2024-05-07]
+  \[[pdf](https://aclanthology.org/2024.acl-long.701.pdf)], \[[code](https://github.com/clinicalml/co-llm) ⭐ 130 | 🐛 5 | 🌐 Python | 📅 2024-05-07]
   ![](https://img.shields.io/badge/Co--LLM-blue)
   ![](https://img.shields.io/badge/ACL2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -850,4 +851,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
