@@ -135,7 +135,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Trusting Your Evidence: Hallucinate Less with Context-aware Decoding**\
   *Weijia Shi, Xiaochuang Han, Mike Lewis, Yulia Tsvetkov, Luke Zettlemoyer, Wen-tau Yih*.
-  \[[pdf](https://aclanthology.org/2024.naacl-short.69.pdf)], \[[code](https://github.com/xhan77/context-aware-decoding) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2024-11-18]
+  \[[pdf](https://aclanthology.org/2024.naacl-short.69.pdf)], \[[code](https://github.com/xhan77/context-aware-decoding) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2024-11-18]
   ![](https://img.shields.io/badge/CAD-blue)
   ![](https://img.shields.io/badge/NACL2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -219,13 +219,13 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training**\
   *Xidong Feng, Ziyu Wan, Muning Wen, Stephen Marcus McAleer, Ying Wen, Weinan Zhang, Jun Wang*.
-  \[[pdf](https://arxiv.org/pdf/2309.17179)], \[[code](https://github.com/waterhorse1/LLM_Tree_Search) ⭐ 287 | 🐛 5 | 🌐 Python | 📅 2024-05-26]
+  \[[pdf](https://arxiv.org/pdf/2309.17179)], \[[code](https://github.com/waterhorse1/LLM_Tree_Search) ⭐ 285 | 🐛 5 | 🌐 Python | 📅 2024-05-26]
   ![](https://img.shields.io/badge/TS--LLM-blue)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context**\
   *Lakshya A Agrawal, Aditya Kanade, Navin Goyal, Shuvendu K. Lahiri, Sriram K. Rajamani*.
-  \[[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/662b1774ba8845fc1fa3d1fc0177ceeb-Paper-Conference.pdf)], \[[code](https://github.com/microsoft/monitors4codegen) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2024-08-08]
+  \[[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/662b1774ba8845fc1fa3d1fc0177ceeb-Paper-Conference.pdf)], \[[code](https://github.com/microsoft/monitors4codegen) ⭐ 280 | 🐛 4 | 🌐 Python | 📅 2024-08-08]
   ![](https://img.shields.io/badge/MGD-blue)
   ![](https://img.shields.io/badge/NeurIPS2023-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -378,21 +378,21 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,504 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,505 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,504 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,505 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/EMNLP2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**\
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia*.
-  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,898 | 🐛 242 | 🌐 C++ | 📅 2026-08-17]
+  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,899 | 🐛 245 | 🌐 C++ | 📅 2026-08-21]
   ![](https://img.shields.io/badge/Self--SpecInfer-blue)
   ![](https://img.shields.io/badge/ASPLOS2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -851,4 +851,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
