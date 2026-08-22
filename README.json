@@ -348,7 +348,7 @@
                     "last_commit": "2026-02-20T02:53:29Z",
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2505
+                    "stars": 2506
                   }
                 },
                 {
@@ -363,7 +363,7 @@
                     "last_commit": "2026-02-20T02:53:29Z",
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2505
+                    "stars": 2506
                   }
                 },
                 {
@@ -375,7 +375,7 @@
                     "archived": false,
                     "id": 160988469,
                     "language": "C++",
-                    "last_commit": "2026-08-21T03:14:39Z",
+                    "last_commit": "2026-08-21T18:15:54Z",
                     "owner": "flexflow",
                     "repo": "flexflow-train",
                     "stars": 1899
@@ -786,7 +786,7 @@
                         "archived": false,
                         "id": 804099462,
                         "language": "Python",
-                        "last_commit": "2026-04-24T22:01:34Z",
+                        "last_commit": "2026-08-22T14:49:38Z",
                         "owner": "magic-YuanTian",
                         "repo": "Selective-Prompt-Anchoring",
                         "stars": 100
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:01:25.654Z",
+    "last_updated": "2026-08-22T15:49:58.435Z",
     "original_repository": "wang2226/Awesome-LLM-Decoding",
     "original_repository_id": 904466263,
     "original_repository_sha": "0d8ba25f682f7043973fe4bea96c279ddd328a26",
