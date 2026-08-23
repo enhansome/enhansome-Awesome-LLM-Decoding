@@ -34,7 +34,7 @@
                     "last_commit": "2024-10-07T07:32:49Z",
                     "owner": "DAMO-NLP-SG",
                     "repo": "VCD",
-                    "stars": 412
+                    "stars": 413
                   }
                 },
                 {
@@ -333,7 +333,7 @@
                     "last_commit": "2024-06-25T12:23:04Z",
                     "owner": "FasterDecoding",
                     "repo": "Medusa",
-                    "stars": 2768
+                    "stars": 2767
                   }
                 },
                 {
@@ -348,7 +348,7 @@
                     "last_commit": "2026-02-20T02:53:29Z",
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2506
+                    "stars": 2507
                   }
                 },
                 {
@@ -363,7 +363,7 @@
                     "last_commit": "2026-02-20T02:53:29Z",
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2506
+                    "stars": 2507
                   }
                 },
                 {
@@ -378,7 +378,7 @@
                     "last_commit": "2026-08-21T18:15:54Z",
                     "owner": "flexflow",
                     "repo": "flexflow-train",
-                    "stars": 1899
+                    "stars": 1898
                   }
                 },
                 {
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:49:58.435Z",
+    "last_updated": "2026-08-23T15:51:12.591Z",
     "original_repository": "wang2226/Awesome-LLM-Decoding",
     "original_repository_id": 904466263,
     "original_repository_sha": "0d8ba25f682f7043973fe4bea96c279ddd328a26",
