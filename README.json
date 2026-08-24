@@ -348,7 +348,7 @@
                     "last_commit": "2026-02-20T02:53:29Z",
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2507
+                    "stars": 2509
                   }
                 },
                 {
@@ -363,7 +363,7 @@
                     "last_commit": "2026-02-20T02:53:29Z",
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2507
+                    "stars": 2509
                   }
                 },
                 {
@@ -846,6 +846,86 @@
               "description": null,
               "node_type": "group",
               "title": "Improve Generation Tasks"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "A Frustratingly Simple Decoding Method for Neural Text GenerationHaoran Yang, Deng Cai, Huayang Li, Wei Bi, Wai Lam, Shuming Shi. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 620672098,
+                        "language": "Python",
+                        "last_commit": "2024-02-23T01:59:58Z",
+                        "owner": "LHRYANG",
+                        "repo": "FSD",
+                        "stars": 19
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Text Generation"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "HART: Efficient Visual Generation with Hybrid Autoregressive TransformerHaotian Tang, Yecheng Wu, Shang Yang, Enze Xie, Junsong Chen, Junyu Chen, Zhuoyang Zhang, Han Cai, Yao Lu, Song Han. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 869330403,
+                        "language": "Python",
+                        "last_commit": "2024-10-16T05:46:35Z",
+                        "owner": "mit-han-lab",
+                        "repo": "hart",
+                        "stars": 647
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Image Generation"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Improve Generation Efficiency"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive DecodingDerong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen. [pdf",
+                      "description": "], [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 865341124,
+                        "language": "Python",
+                        "last_commit": "2024-12-13T16:40:54Z",
+                        "owner": "quqxui",
+                        "repo": "quqxui-AlternateCD",
+                        "stars": 1
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Healthcare"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Domain-Specific Applications"
             }
           ],
           "description": null,
@@ -857,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:51:12.591Z",
+    "last_updated": "2026-08-24T14:44:41.506Z",
     "original_repository": "wang2226/Awesome-LLM-Decoding",
     "original_repository_id": 904466263,
     "original_repository_sha": "0d8ba25f682f7043973fe4bea96c279ddd328a26",

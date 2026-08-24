@@ -121,7 +121,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Contrastive Decoding: Open-ended Text Generation as Optimization**\
   *Xiang Lisa Li, Ari Holtzman, Daniel Fried, Percy Liang, Jason Eisner, Tatsunori Hashimoto, Luke Zettlemoyer, Mike Lewis*.
-  \[[pdf](https://aclanthology.org/2023.acl-long.687.pdf)], \[[code](https://github.com/XiangLi1999/ContrastiveDecoding) ⭐ 206 | 🐛 11 | 🌐 Python | 📅 2022-11-14]
+  \[[pdf](https://aclanthology.org/2023.acl-long.687.pdf)], \[[code](https://github.com/XiangLi1999/ContrastiveDecoding) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2022-11-14]
   ![](https://img.shields.io/badge/CD-blue)
   ![](https://img.shields.io/badge/ACL2023-brown)
   ![](https://img.shields.io/badge/PLM-red)
@@ -225,7 +225,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context**\
   *Lakshya A Agrawal, Aditya Kanade, Navin Goyal, Shuvendu K. Lahiri, Sriram K. Rajamani*.
-  \[[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/662b1774ba8845fc1fa3d1fc0177ceeb-Paper-Conference.pdf)], \[[code](https://github.com/microsoft/monitors4codegen) ⭐ 280 | 🐛 4 | 🌐 Python | 📅 2024-08-08]
+  \[[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/662b1774ba8845fc1fa3d1fc0177ceeb-Paper-Conference.pdf)], \[[code](https://github.com/microsoft/monitors4codegen) ⭐ 280 | 🐛 5 | 🌐 Python | 📅 2024-08-08]
   ![](https://img.shields.io/badge/MGD-blue)
   ![](https://img.shields.io/badge/NeurIPS2023-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -378,14 +378,14 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,507 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,509 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,507 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,509 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/EMNLP2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -747,17 +747,17 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 ##### Text Generation
 
-* **Hierarchical Skip Decoding for Efficient Autoregressive Text Generation**\
-  *Yunqi Zhu, Xuebing Yang, Yuanyuan Wu, Wensheng Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2403.14919)]
-  ![](https://img.shields.io/badge/HSD-blue)
-  ![](https://img.shields.io/badge/LLM-red)
-
 * **A Frustratingly Simple Decoding Method for Neural Text Generation**\
   *Haoran Yang, Deng Cai, Huayang Li, Wei Bi, Wai Lam, Shuming Shi*.
   \[[pdf](https://aclanthology.org/2024.lrec-main.47.pdf)], \[[code](https://github.com/LHRYANG/FSD) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-02-23]
   ![](https://img.shields.io/badge/FSD-blue)
   ![](https://img.shields.io/badge/LREC2024-brown)
+  ![](https://img.shields.io/badge/LLM-red)
+
+* **Hierarchical Skip Decoding for Efficient Autoregressive Text Generation**\
+  *Yunqi Zhu, Xuebing Yang, Yuanyuan Wu, Wensheng Zhang*.
+  \[[pdf](https://arxiv.org/pdf/2403.14919)]
+  ![](https://img.shields.io/badge/HSD-blue)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **Adaptive Draft-Verification for Efficient Large Language Model Decoding**\
@@ -774,6 +774,12 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 ##### Image Generation
 
+* **HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**\
+  *Haotian Tang, Yecheng Wu, Shang Yang, Enze Xie, Junsong Chen, Junyu Chen, Zhuoyang Zhang, Han Cai, Yao Lu, Song Han*.
+  \[[pdf](https://arxiv.org/pdf/2410.10812)], \[[code](https://github.com/mit-han-lab/hart) ⭐ 647 | 🐛 21 | 🌐 Python | 📅 2024-10-16]
+  ![](https://img.shields.io/badge/HART-blue)
+  ![](https://img.shields.io/badge/LVLM-red)
+
 * **Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**\
   *Yao Teng, Han Shi, Xian Liu, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu*.
   \[[pdf](https://arxiv.org/pdf/2410.01699)]
@@ -784,12 +790,6 @@ Model: ![](https://img.shields.io/badge/LLM-red)
   *Zhangyin Feng, Runyi Hu, Liangxin Liu, Fan Zhang, Duyu Tang, Yong Dai, Xiaocheng Feng, Jiwei Li, Bing Qin, Shuming Shi*.
   \[[pdf](https://arxiv.org/pdf/2312.14988)]
   ![](https://img.shields.io/badge/Emage-blue)
-  ![](https://img.shields.io/badge/LVLM-red)
-
-* **HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**\
-  *Haotian Tang, Yecheng Wu, Shang Yang, Enze Xie, Junsong Chen, Junyu Chen, Zhuoyang Zhang, Han Cai, Yao Lu, Song Han*.
-  \[[pdf](https://arxiv.org/pdf/2410.10812)], \[[code](https://github.com/mit-han-lab/hart) ⭐ 647 | 🐛 21 | 🌐 Python | 📅 2024-10-16]
-  ![](https://img.shields.io/badge/HART-blue)
   ![](https://img.shields.io/badge/LVLM-red)
 
 #### Domain-Specific Applications
@@ -851,4 +851,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
