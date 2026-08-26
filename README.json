@@ -34,7 +34,7 @@
                     "last_commit": "2024-10-07T07:32:49Z",
                     "owner": "DAMO-NLP-SG",
                     "repo": "VCD",
-                    "stars": 413
+                    "stars": 412
                   }
                 },
                 {
@@ -333,7 +333,7 @@
                     "last_commit": "2024-06-25T12:23:04Z",
                     "owner": "FasterDecoding",
                     "repo": "Medusa",
-                    "stars": 2767
+                    "stars": 2770
                   }
                 },
                 {
@@ -348,7 +348,7 @@
                     "last_commit": "2026-02-20T02:53:29Z",
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2511
+                    "stars": 2510
                   }
                 },
                 {
@@ -363,7 +363,7 @@
                     "last_commit": "2026-02-20T02:53:29Z",
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2511
+                    "stars": 2510
                   }
                 },
                 {
@@ -375,7 +375,7 @@
                     "archived": false,
                     "id": 160988469,
                     "language": "C++",
-                    "last_commit": "2026-08-25T09:35:32Z",
+                    "last_commit": "2026-08-26T02:09:29Z",
                     "owner": "flexflow",
                     "repo": "flexflow-train",
                     "stars": 1898
@@ -423,7 +423,7 @@
                     "last_commit": "2024-03-15T07:54:50Z",
                     "owner": "teelinsan",
                     "repo": "parallel-decoding",
-                    "stars": 124
+                    "stars": 123
                   }
                 },
                 {
@@ -737,7 +737,7 @@
                         "last_commit": "2026-03-05T12:38:16Z",
                         "owner": "FasterDecoding",
                         "repo": "REST",
-                        "stars": 220
+                        "stars": 221
                       }
                     },
                     {
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:10:19.025Z",
+    "last_updated": "2026-08-26T16:36:45.626Z",
     "original_repository": "wang2226/Awesome-LLM-Decoding",
     "original_repository_id": 904466263,
     "original_repository_sha": "0d8ba25f682f7043973fe4bea96c279ddd328a26",
