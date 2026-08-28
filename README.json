@@ -348,7 +348,7 @@
                     "last_commit": "2026-02-20T02:53:29Z",
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2511
+                    "stars": 2513
                   }
                 },
                 {
@@ -363,7 +363,7 @@
                     "last_commit": "2026-02-20T02:53:29Z",
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2511
+                    "stars": 2513
                   }
                 },
                 {
@@ -375,7 +375,7 @@
                     "archived": false,
                     "id": 160988469,
                     "language": "C++",
-                    "last_commit": "2026-08-26T19:10:43Z",
+                    "last_commit": "2026-08-27T21:26:22Z",
                     "owner": "flexflow",
                     "repo": "flexflow-train",
                     "stars": 1898
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:48.607Z",
+    "last_updated": "2026-08-28T00:33:57.428Z",
     "original_repository_info": {
       "archived": false,
       "id": 904466263,
