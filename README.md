@@ -371,7 +371,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**\
   *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao*.
-  \[[pdf](https://arxiv.org/pdf/2401.10774)], \[[code](https://github.com/FasterDecoding/Medusa) ⭐ 2,770 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25]
+  \[[pdf](https://arxiv.org/pdf/2401.10774)], \[[code](https://github.com/FasterDecoding/Medusa) ⭐ 2,771 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25]
   ![](https://img.shields.io/badge/Medusa-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -392,7 +392,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**\
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia*.
-  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,898 | 🐛 248 | 🌐 C++ | 📅 2026-08-28]
+  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,898 | 🐛 248 | 🌐 C++ | 📅 2026-08-29]
   ![](https://img.shields.io/badge/Self--SpecInfer-blue)
   ![](https://img.shields.io/badge/ASPLOS2024-brown)
   ![](https://img.shields.io/badge/LLM-red)

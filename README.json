@@ -481,7 +481,7 @@
                     "open_issues": 57,
                     "owner": "FasterDecoding",
                     "repo": "Medusa",
-                    "stars": 2770,
+                    "stars": 2771,
                     "topics": [
                       "llm",
                       "llm-inference"
@@ -551,7 +551,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T23:12:12Z",
+                    "last_commit": "2026-08-29T17:52:19Z",
                     "open_issues": 248,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:00:29.323Z",
+    "last_updated": "2026-08-29T18:47:48.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
