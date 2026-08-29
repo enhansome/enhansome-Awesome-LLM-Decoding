@@ -14,12 +14,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation for the paper \"DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models\"",
+                    "homepage": "https://arxiv.org/abs/2309.03883",
                     "id": 681029130,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-12T00:53:57Z",
+                    "open_issues": 9,
                     "owner": "voidism",
                     "repo": "DoLa",
-                    "stars": 558
+                    "stars": 558,
+                    "topics": [
+                      "factuality",
+                      "hallucinations",
+                      "large-language-models"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -30,12 +39,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024 Highlight] Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding",
+                    "homepage": null,
                     "id": 723675517,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-10-07T07:32:49Z",
+                    "open_issues": 20,
                     "owner": "DAMO-NLP-SG",
                     "repo": "VCD",
-                    "stars": 413
+                    "stars": 413,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -46,12 +60,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "contrastive decoding ",
+                    "homepage": null,
                     "id": 548827310,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-14T20:58:20Z",
+                    "open_issues": 10,
                     "owner": "XiangLi1999",
                     "repo": "ContrastiveDecoding",
-                    "stars": 206
+                    "stars": 206,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -62,12 +81,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "code associated with ACL 2021 DExperts paper",
+                    "homepage": null,
                     "id": 373678157,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2023-05-24T18:58:54Z",
+                    "open_issues": 2,
                     "owner": "alisawuffles",
                     "repo": "DExperts",
-                    "stars": 119
+                    "stars": 119,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -78,12 +102,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 699188644,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-11-18T04:23:06Z",
+                    "open_issues": 1,
                     "owner": "xhan77",
                     "repo": "context-aware-decoding",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -94,12 +123,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 805360891,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-24T12:14:28Z",
+                    "open_issues": 3,
                     "owner": "DavidFanzz",
                     "repo": "SCMoE",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -110,12 +144,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 933984080,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-02-17T04:41:48Z",
+                    "open_issues": 0,
                     "owner": "WHU-ZQH",
                     "repo": "ROSE",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -126,12 +165,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 786464904,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-04-14T14:48:34Z",
+                    "open_issues": 0,
                     "owner": "souvikdgp16",
                     "repo": "extrapolative_decoding",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 }
@@ -149,12 +193,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(ICML 2024) Alphazero-like Tree-Search can guide large language model decoding and training",
+                    "homepage": null,
                     "id": 698202673,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-26T22:52:50Z",
+                    "open_issues": 5,
                     "owner": "waterhorse1",
                     "repo": "LLM_Tree_Search",
-                    "stars": 285
+                    "stars": 285,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -165,12 +214,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and Data artifact for NeurIPS 2023 paper - \"Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context\". `multispy` is a lsp client library in Python intended to be used to build applications around language servers.",
+                    "homepage": "https://www.microsoft.com/en-us/research/publication/guiding-language-models-of-code-with-global-context-using-monitors/",
                     "id": 714439630,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-08-08T18:15:14Z",
+                    "open_issues": 5,
                     "owner": "microsoft",
                     "repo": "monitors4codegen",
-                    "stars": 280
+                    "stars": 280,
+                    "topics": [
+                      "ai",
+                      "ai4code",
+                      "artificial-intelligence",
+                      "code-analysis",
+                      "code-completion",
+                      "code-generation",
+                      "codegen",
+                      "dataset",
+                      "huggingface-transformers",
+                      "language-server-client",
+                      "language-server-protocol",
+                      "large-language-models",
+                      "llm",
+                      "lsp",
+                      "lsp-client",
+                      "neurips",
+                      "neurips-2023",
+                      "program-synthesis",
+                      "transformer"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -181,12 +255,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Repository for ACL 2024 Paper SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding",
+                    "homepage": "https://arxiv.org/abs/2402.08983",
                     "id": 759247975,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-07-19T07:43:36Z",
+                    "open_issues": 3,
                     "owner": "uw-nsl",
                     "repo": "SafeDecoding",
-                    "stars": 153
+                    "stars": 153,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -197,12 +276,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "https://arxiv.org/abs/2408.02032",
+                    "homepage": null,
                     "id": 836705697,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-01-16T06:58:41Z",
+                    "open_issues": 10,
                     "owner": "huofushuo",
                     "repo": "SID",
-                    "stars": 139
+                    "stars": 139,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -213,12 +297,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 351279410,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-08-24T00:50:18Z",
+                    "open_issues": 3,
                     "owner": "yangkevin2",
                     "repo": "naacl-2021-fudge-controlled-generation",
-                    "stars": 102
+                    "stars": 102,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -229,12 +318,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NaturalProver: Grounded Mathematical Proof Generation with Language Models",
+                    "homepage": null,
                     "id": 495896653,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-03-24T23:29:07Z",
+                    "open_issues": 1,
                     "owner": "wellecks",
                     "repo": "naturalprover",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -245,12 +339,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official github repository of CriticControl",
+                    "homepage": null,
                     "id": 636082266,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-08-06T03:07:29Z",
+                    "open_issues": 0,
                     "owner": "minbeomkim",
                     "repo": "CriticControl",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -261,12 +360,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2025] Official Implementation for \"Enhancing Vision-Language Model Reliability with Uncertainty-Guided Dropout Decoding\"",
+                    "homepage": null,
                     "id": 795515208,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-08T07:56:02Z",
+                    "open_issues": 1,
                     "owner": "kigb",
                     "repo": "DropoutDecoding",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -277,12 +381,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[COLM'24] \"Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning\"",
+                    "homepage": null,
                     "id": 749275500,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-06-14T15:04:07Z",
+                    "open_issues": 0,
                     "owner": "OSU-NLP-Group",
                     "repo": "Deductive-Beam-Search",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -293,12 +402,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 785118483,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-08-01T06:54:36Z",
+                    "open_issues": 2,
                     "owner": "d-ailin",
                     "repo": "CLIP-Guided-Decoding",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -309,12 +423,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL 2024 Findings] Distance from Median Maximum Cosine Similarity",
+                    "homepage": null,
                     "id": 804293688,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-09-01T19:44:11Z",
+                    "open_issues": 4,
                     "owner": "nlpaueb",
                     "repo": "dmmcs",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -325,12 +444,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 809790678,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-06-03T13:05:47Z",
+                    "open_issues": 2,
                     "owner": "eth-sri",
                     "repo": "domino",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 }
@@ -348,12 +472,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads",
+                    "homepage": "https://sites.google.com/view/medusa-llm",
                     "id": 689541424,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-25T12:23:04Z",
+                    "open_issues": 57,
                     "owner": "FasterDecoding",
                     "repo": "Medusa",
-                    "stars": 2770
+                    "stars": 2770,
+                    "topics": [
+                      "llm",
+                      "llm-inference"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -364,12 +496,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation of EAGLE-1 (ICML'24), EAGLE-2 (EMNLP'24), and EAGLE-3 (NeurIPS'25).",
+                    "homepage": "https://arxiv.org/pdf/2503.01840",
                     "id": 728820625,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-20T02:53:29Z",
+                    "open_issues": 101,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2514
+                    "stars": 2514,
+                    "topics": [
+                      "large-language-models",
+                      "llm-inference",
+                      "speculative-decoding"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -380,12 +521,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation of EAGLE-1 (ICML'24), EAGLE-2 (EMNLP'24), and EAGLE-3 (NeurIPS'25).",
+                    "homepage": "https://arxiv.org/pdf/2503.01840",
                     "id": 728820625,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-20T02:53:29Z",
+                    "open_issues": 101,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2514
+                    "stars": 2514,
+                    "topics": [
+                      "large-language-models",
+                      "llm-inference",
+                      "speculative-decoding"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -396,12 +546,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatically Discovering Fast Parallelization Strategies for Distributed Deep Neural Network Training",
+                    "homepage": "https://flexflow.ai",
                     "id": 160988469,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T23:12:12Z",
+                    "open_issues": 248,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
-                    "stars": 1898
+                    "stars": 1898,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -412,12 +567,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2024] Break the Sequential Dependency of LLM Inference Using Lookahead Decoding",
+                    "homepage": "https://arxiv.org/abs/2402.02057",
                     "id": 721748445,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-03-06T07:17:19Z",
+                    "open_issues": 33,
                     "owner": "hao-ai-lab",
                     "repo": "LookaheadDecoding",
-                    "stars": 1342
+                    "stars": 1342,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -428,12 +588,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code associated with the paper **Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**",
+                    "homepage": null,
                     "id": 693426592,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-13T16:26:24Z",
+                    "open_issues": 1,
                     "owner": "dilab-zju",
                     "repo": "self-speculative-decoding",
-                    "stars": 231
+                    "stars": 231,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -444,12 +609,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository of the paper \"Accelerating Transformer Inference for Translation via Parallel Decoding\"",
+                    "homepage": "https://gladia.di.uniroma1.it/publication/ipi/",
                     "id": 636199466,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-03-15T07:54:50Z",
+                    "open_issues": 0,
                     "owner": "teelinsan",
                     "repo": "parallel-decoding",
-                    "stars": 123
+                    "stars": 123,
+                    "topics": [
+                      "decoding-algorithm",
+                      "deep-learning",
+                      "jacobi-decoding",
+                      "jacobi-iteration",
+                      "natural-language-processing",
+                      "neural-network",
+                      "parallel-decoding",
+                      "transformers"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -460,12 +639,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2025] SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration",
+                    "homepage": null,
                     "id": 870092751,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-21T14:13:46Z",
+                    "open_issues": 2,
                     "owner": "hemingkx",
                     "repo": "SWIFT",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "speculative-decoding"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -476,12 +662,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 673959226,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-03T06:34:57Z",
+                    "open_issues": 6,
                     "owner": "LiuXiaoxuanPKU",
                     "repo": "OSD",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -492,12 +683,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Codes for our paper \"Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation\" (EMNLP 2023 Findings)",
+                    "homepage": null,
                     "id": 476163648,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-12-09T14:23:00Z",
+                    "open_issues": 1,
                     "owner": "hemingkx",
                     "repo": "SpecDec",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": [
+                      "non-autoregressive",
+                      "speculative-decoding"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -508,12 +707,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for NeurIPS 2024 Paper - Superposed Decoding: Multiple Generations from a Single Autoregressive Inference Pass",
+                    "homepage": null,
                     "id": 805048642,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-08-22T01:08:10Z",
+                    "open_issues": 0,
                     "owner": "RAIVNLab",
                     "repo": "SuperposedDecoding",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 },
@@ -524,12 +728,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification, AISTATS 2026.",
+                    "homepage": "https://openreview.net/forum?id=yCNt8ovyzl",
                     "id": 1147722006,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-21T00:58:41Z",
+                    "open_issues": 1,
                     "owner": "comeusr",
                     "repo": "diversed",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
                 }
@@ -556,12 +765,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ICLR 2025] MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation",
+                        "homepage": null,
                         "id": 864950608,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-09-11T02:18:25Z",
+                        "open_issues": 2,
                         "owner": "zjunlp",
                         "repo": "Deco",
-                        "stars": 148
+                        "stars": 148,
+                        "topics": [
+                          "artificial-intelligence",
+                          "decoding",
+                          "doco",
+                          "hallucination",
+                          "hallucination-mitigation",
+                          "iclr2025",
+                          "large-language-models",
+                          "mllm",
+                          "multimodal-large-language-models",
+                          "natural-language-processing"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -572,12 +797,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official Implementation for the paper \"Integrative Decoding: Improving Factuality via Implicit Self-consistency\"",
+                        "homepage": null,
                         "id": 866560518,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-04-12T02:10:59Z",
+                        "open_issues": 0,
                         "owner": "YiCheng98",
                         "repo": "IntegrativeDecoding",
-                        "stars": 33
+                        "stars": 33,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -588,12 +818,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official Implementation of \"DeCoRe: Decoding by Contrasting Retrieval Heads to Mitigate Hallucination\"",
+                        "homepage": "https://aryopg.github.io/decore/",
                         "id": 822595086,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2024-12-18T22:28:07Z",
+                        "open_issues": 0,
                         "owner": "aryopg",
                         "repo": "decore",
-                        "stars": 30
+                        "stars": 30,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -604,12 +839,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[AAAI 2025] ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models",
+                        "homepage": null,
                         "id": 847232260,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-09-26T07:23:06Z",
+                        "open_issues": 0,
                         "owner": "yejipark-m",
                         "repo": "ConVis",
-                        "stars": 25
+                        "stars": 25,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -620,12 +860,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models",
+                        "homepage": null,
                         "id": 897018894,
                         "language": null,
+                        "license": null,
                         "last_commit": "2024-12-10T08:52:13Z",
+                        "open_issues": 1,
                         "owner": "YiLunLee",
                         "repo": "VCD_Analysis",
-                        "stars": 9
+                        "stars": 9,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     }
@@ -643,12 +888,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 916535719,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-01-14T09:51:01Z",
+                        "open_issues": 0,
                         "owner": "NeuralSentinel",
                         "repo": "SafeInfer",
-                        "stars": 23
+                        "stars": 23,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -659,12 +909,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 849784479,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-09-05T01:47:34Z",
+                        "open_issues": 1,
                         "owner": "SAI990323",
                         "repo": "DecodingMatters",
-                        "stars": 21
+                        "stars": 21,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -675,12 +930,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[KDD 2026] Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation",
+                        "homepage": null,
                         "id": 1033005305,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-08-06T06:51:27Z",
+                        "open_issues": 1,
                         "owner": "wang2226",
                         "repo": "PAD",
-                        "stars": 8
+                        "stars": 8,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     }
@@ -698,12 +958,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Co-LLM: Learning to Decode Collaboratively with Multiple Language Models",
+                        "homepage": "https://arxiv.org/abs/2403.03870",
                         "id": 767130020,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-05-07T15:13:10Z",
+                        "open_issues": 5,
                         "owner": "clinicalml",
                         "repo": "co-llm",
-                        "stars": 130
+                        "stars": 130,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -714,12 +979,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Distillation Contrastive Decoding: Improving LLMs Reasoning with Contrastive Decoding and Distillation",
+                        "homepage": "https://arxiv.org/abs/2402.14874",
                         "id": 758500705,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-02-27T11:06:28Z",
+                        "open_issues": 0,
                         "owner": "pphuc25",
                         "repo": "distil-cd",
-                        "stars": 35
+                        "stars": 35,
+                        "topics": [
+                          "arithmetic-reasoning",
+                          "contrastive-cot-prompting",
+                          "contrastive-decoding",
+                          "decoding",
+                          "distillation-contrastive-decoding",
+                          "factuality",
+                          "nlp",
+                          "paper"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -730,12 +1009,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "(COLING2025) SEED: Accelerating Reasoning Tree Construction via Scheduled Speculative Decoding",
+                        "homepage": null,
                         "id": 814597083,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-12-18T09:08:05Z",
+                        "open_issues": 0,
                         "owner": "Linking-ai",
                         "repo": "SEED",
-                        "stars": 10
+                        "stars": 10,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -746,12 +1030,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "(COLING2025) SEED: Accelerating Reasoning Tree Construction via Scheduled Speculative Decoding",
+                        "homepage": null,
                         "id": 814597083,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-12-18T09:08:05Z",
+                        "open_issues": 0,
                         "owner": "Linking-ai",
                         "repo": "SEED",
-                        "stars": 10
+                        "stars": 10,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     }
@@ -776,12 +1065,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "REST: Retrieval-Based Speculative Decoding, NAACL 2024",
+                        "homepage": null,
                         "id": 718875034,
                         "language": "C",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-03-05T12:38:16Z",
+                        "open_issues": 15,
                         "owner": "FasterDecoding",
                         "repo": "REST",
-                        "stars": 221
+                        "stars": 221,
+                        "topics": [
+                          "llm-inference",
+                          "retrieval",
+                          "speculative-decoding"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -792,12 +1090,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[SIGIR 2024] The official repo for paper \"Planning Ahead in Generative Retrieval: Guiding Autoregressive Generation through Simultaneous Decoding\"",
+                        "homepage": null,
                         "id": 748416196,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-04-24T14:57:01Z",
+                        "open_issues": 0,
                         "owner": "HansiZeng",
                         "repo": "PAG",
-                        "stars": 32
+                        "stars": 32,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -808,12 +1111,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 546094054,
                         "language": null,
+                        "license": null,
                         "last_commit": "2022-10-06T02:36:53Z",
+                        "open_issues": 1,
                         "owner": "amy-hyunji",
                         "repo": "Contextualized-Generative-Retrieval",
-                        "stars": 16
+                        "stars": 16,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     }
@@ -831,12 +1139,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Selective Prompt Anchoring",
+                        "homepage": null,
                         "id": 804099462,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-08-22T14:49:38Z",
+                        "open_issues": 2,
                         "owner": "magic-YuanTian",
                         "repo": "Selective-Prompt-Anchoring",
-                        "stars": 100
+                        "stars": 100,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -847,12 +1160,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code for paper \"LEVER: Learning to Verifiy Language-to-Code Generation with Execution\" (ICML'23)",
+                        "homepage": "https://arxiv.org/abs/2302.08468",
                         "id": 602401834,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-07-05T09:06:23Z",
+                        "open_issues": 2,
                         "owner": "niansong1996",
                         "repo": "lever",
-                        "stars": 90
+                        "stars": 90,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -863,12 +1181,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official implementation of AdapT in AAAI 2024",
+                        "homepage": null,
                         "id": 731461111,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-12-28T08:32:25Z",
+                        "open_issues": 1,
                         "owner": "LJ2lijia",
                         "repo": "AdapT",
-                        "stars": 9
+                        "stars": 9,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     },
@@ -879,12 +1202,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 679666620,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2024-12-20T10:50:51Z",
+                        "open_issues": 0,
                         "owner": "sameerp30",
                         "repo": "Structured-generation",
-                        "stars": 1
+                        "stars": 1,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     }
@@ -909,12 +1237,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Implementation of LREC-COLING 2024 paper A Frustratingly Simple Decoding Method for Neural Text Generation",
+                        "homepage": null,
                         "id": 620672098,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-02-23T01:59:58Z",
+                        "open_issues": 0,
                         "owner": "LHRYANG",
                         "repo": "FSD",
-                        "stars": 19
+                        "stars": 19,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     }
@@ -932,12 +1265,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "HART: Efficient Visual Generation with Hybrid Autoregressive Transformer",
+                        "homepage": null,
                         "id": 869330403,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-10-16T05:46:35Z",
+                        "open_issues": 21,
                         "owner": "mit-han-lab",
                         "repo": "hart",
-                        "stars": 647
+                        "stars": 647,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     }
@@ -962,12 +1300,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 865341124,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-12-13T16:40:54Z",
+                        "open_issues": 0,
                         "owner": "quqxui",
                         "repo": "quqxui-AlternateCD",
-                        "stars": 1
+                        "stars": 1,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
                     }
@@ -991,15 +1334,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:04:37.973Z",
+    "last_updated": "2026-08-29T05:00:29.323Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
+      "homepage": null,
       "id": 904466263,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-08-19T20:58:12Z",
+      "open_issues": 0,
       "owner": "wang2226",
       "repo": "Awesome-LLM-Decoding",
-      "stars": 76
+      "stars": 76,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "llm",
+        "llm-inference",
+        "lvlm",
+        "natural-language-processing",
+        "nlp"
+      ]
     },
     "original_repository_sha": "0d8ba25f682f7043973fe4bea96c279ddd328a26",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Decoding",
