@@ -505,7 +505,7 @@
                     "open_issues": 101,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2516,
+                    "stars": 2519,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -530,7 +530,7 @@
                     "open_issues": 101,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2516,
+                    "stars": 2519,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -551,8 +551,8 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T05:12:37Z",
-                    "open_issues": 248,
+                    "last_commit": "2026-09-01T17:25:19Z",
+                    "open_issues": 249,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
                     "stars": 1898,
@@ -597,7 +597,7 @@
                     "open_issues": 1,
                     "owner": "dilab-zju",
                     "repo": "self-speculative-decoding",
-                    "stars": 231,
+                    "stars": 230,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -618,7 +618,7 @@
                     "open_issues": 0,
                     "owner": "teelinsan",
                     "repo": "parallel-decoding",
-                    "stars": 124,
+                    "stars": 123,
                     "topics": [
                       "decoding-algorithm",
                       "deep-learning",
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:01:56.820Z",
+    "last_updated": "2026-09-01T18:46:16.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
