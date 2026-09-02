@@ -378,14 +378,14 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,519 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,521 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,519 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,521 | 🐛 101 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/EMNLP2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -851,4 +851,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
