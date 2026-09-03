@@ -48,7 +48,7 @@
                     "open_issues": 20,
                     "owner": "DAMO-NLP-SG",
                     "repo": "VCD",
-                    "stars": 414,
+                    "stars": 415,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -285,7 +285,7 @@
                     "open_issues": 10,
                     "owner": "huofushuo",
                     "repo": "SID",
-                    "stars": 139,
+                    "stars": 138,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -481,7 +481,7 @@
                     "open_issues": 57,
                     "owner": "FasterDecoding",
                     "repo": "Medusa",
-                    "stars": 2771,
+                    "stars": 2772,
                     "topics": [
                       "llm",
                       "llm-inference"
@@ -505,7 +505,7 @@
                     "open_issues": 101,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2521,
+                    "stars": 2524,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -530,7 +530,7 @@
                     "open_issues": 101,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2521,
+                    "stars": 2524,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -551,11 +551,11 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-01T17:25:19Z",
-                    "open_issues": 249,
+                    "last_commit": "2026-09-03T18:11:46Z",
+                    "open_issues": 252,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
-                    "stars": 1898,
+                    "stars": 1899,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:55:41.212Z",
+    "last_updated": "2026-09-03T18:50:54.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
