@@ -114,7 +114,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**\
   *Sicong Leng, Hang Zhang, Guanzheng Chen, Xin Li, Shijian Lu, Chunyan Miao, Lidong Bing*.
-  \[[pdf](https://arxiv.org/pdf/2311.16922)], \[[code](https://github.com/DAMO-NLP-SG/VCD) ⭐ 414 | 🐛 20 | 🌐 Python | 📅 2024-10-07]
+  \[[pdf](https://arxiv.org/pdf/2311.16922)], \[[code](https://github.com/DAMO-NLP-SG/VCD) ⭐ 417 | 🐛 20 | 🌐 Python | 📅 2024-10-07]
   ![](https://img.shields.io/badge/VCD-blue)
   ![](https://img.shields.io/badge/CVPR2024-brown)
   ![](https://img.shields.io/badge/LVLM-red)
@@ -219,7 +219,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training**\
   *Xidong Feng, Ziyu Wan, Muning Wen, Stephen Marcus McAleer, Ying Wen, Weinan Zhang, Jun Wang*.
-  \[[pdf](https://arxiv.org/pdf/2309.17179)], \[[code](https://github.com/waterhorse1/LLM_Tree_Search) ⭐ 285 | 🐛 5 | 🌐 Python | 📅 2024-05-26]
+  \[[pdf](https://arxiv.org/pdf/2309.17179)], \[[code](https://github.com/waterhorse1/LLM_Tree_Search) ⭐ 286 | 🐛 5 | 🌐 Python | 📅 2024-05-26]
   ![](https://img.shields.io/badge/TS--LLM-blue)
   ![](https://img.shields.io/badge/LLM-red)
 
@@ -392,7 +392,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**\
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia*.
-  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,899 | 🐛 255 | 🌐 C++ | 📅 2026-09-09]
+  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,899 | 🐛 255 | 🌐 C++ | 📅 2026-09-10]
   ![](https://img.shields.io/badge/Self--SpecInfer-blue)
   ![](https://img.shields.io/badge/ASPLOS2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -851,4 +851,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

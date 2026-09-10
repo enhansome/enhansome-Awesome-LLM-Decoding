@@ -48,7 +48,7 @@
                     "open_issues": 20,
                     "owner": "DAMO-NLP-SG",
                     "repo": "VCD",
-                    "stars": 414,
+                    "stars": 417,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -202,7 +202,7 @@
                     "open_issues": 5,
                     "owner": "waterhorse1",
                     "repo": "LLM_Tree_Search",
-                    "stars": 285,
+                    "stars": 286,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -551,7 +551,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T16:16:18Z",
+                    "last_commit": "2026-09-10T11:36:25Z",
                     "open_issues": 255,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:48:49.804Z",
+    "last_updated": "2026-09-10T18:39:23.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
