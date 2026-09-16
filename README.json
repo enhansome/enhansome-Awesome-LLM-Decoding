@@ -481,7 +481,7 @@
                     "open_issues": 57,
                     "owner": "FasterDecoding",
                     "repo": "Medusa",
-                    "stars": 2773,
+                    "stars": 2772,
                     "topics": [
                       "llm",
                       "llm-inference"
@@ -505,7 +505,7 @@
                     "open_issues": 101,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2532,
+                    "stars": 2533,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -530,7 +530,7 @@
                     "open_issues": 101,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2532,
+                    "stars": 2533,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -551,8 +551,8 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T07:33:33Z",
-                    "open_issues": 255,
+                    "last_commit": "2026-09-16T18:40:40Z",
+                    "open_issues": 251,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
                     "stars": 1899,
@@ -576,7 +576,7 @@
                     "open_issues": 34,
                     "owner": "hao-ai-lab",
                     "repo": "LookaheadDecoding",
-                    "stars": 1342,
+                    "stars": 1343,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:09:35.862Z",
+    "last_updated": "2026-09-16T19:02:07.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
