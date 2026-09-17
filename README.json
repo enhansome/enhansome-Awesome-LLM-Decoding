@@ -505,7 +505,7 @@
                     "open_issues": 101,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2533,
+                    "stars": 2536,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -530,7 +530,7 @@
                     "open_issues": 101,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2533,
+                    "stars": 2536,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -551,7 +551,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-16T18:40:40Z",
+                    "last_commit": "2026-09-17T16:41:44Z",
                     "open_issues": 251,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:02:07.010Z",
+    "last_updated": "2026-09-17T19:13:22.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
@@ -1342,7 +1342,7 @@
       "id": 904466263,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-08-19T20:58:12Z",
+      "last_commit": "2026-09-17T03:36:25Z",
       "open_issues": 0,
       "owner": "wang2226",
       "repo": "Awesome-LLM-Decoding",
@@ -1357,7 +1357,7 @@
         "nlp"
       ]
     },
-    "original_repository_sha": "0d8ba25f682f7043973fe4bea96c279ddd328a26",
+    "original_repository_sha": "a1d1288689820cd99c8119b80a80bafc55bdc15b",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Decoding",
     "enhanced_repository_description": null,
     "title": "Awesome-L(V)LM-Decoding with stars"
