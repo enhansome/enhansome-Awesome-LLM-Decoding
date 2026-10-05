@@ -107,7 +107,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**\
   *Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He*.
-  \[[pdf](https://arxiv.org/pdf/2309.03883)], \[[code](https://github.com/voidism/DoLa) ⭐ 560 | 🐛 9 | 🌐 Python | 📅 2026-07-12]
+  \[[pdf](https://arxiv.org/pdf/2309.03883)], \[[code](https://github.com/voidism/DoLa) ⭐ 559 | 🐛 9 | 🌐 Python | 📅 2026-07-12]
   ![](https://img.shields.io/badge/DoLa-blue)
   ![](https://img.shields.io/badge/ICLR2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -232,7 +232,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context**\
   *Lakshya A Agrawal, Aditya Kanade, Navin Goyal, Shuvendu K. Lahiri, Sriram K. Rajamani*.
-  \[[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/662b1774ba8845fc1fa3d1fc0177ceeb-Paper-Conference.pdf)], \[[code](https://github.com/microsoft/monitors4codegen) ⭐ 280 | 🐛 5 | 🌐 Python | 📅 2024-08-08]
+  \[[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/662b1774ba8845fc1fa3d1fc0177ceeb-Paper-Conference.pdf)], \[[code](https://github.com/microsoft/monitors4codegen) ⭐ 279 | 🐛 5 | 🌐 Python | 📅 2024-08-08]
   ![](https://img.shields.io/badge/MGD-blue)
   ![](https://img.shields.io/badge/NeurIPS2023-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -246,7 +246,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models**\
   *Fushuo Huo, Wenchao Xu, Zhong Zhang, Haozhao Wang, Zhicheng Chen, Peilin Zhao*.
-  \[[pdf](https://arxiv.org/pdf/2408.02032)], \[[code](https://github.com/huofushuo/SID) ⭐ 138 | 🐛 10 | 🌐 Python | 📅 2025-01-16]
+  \[[pdf](https://arxiv.org/pdf/2408.02032)], \[[code](https://github.com/huofushuo/SID) ⭐ 139 | 🐛 10 | 🌐 Python | 📅 2025-01-16]
   ![](https://img.shields.io/badge/SID-blue)
   ![](https://img.shields.io/badge/LVLM-red)
 
@@ -399,7 +399,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**\
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia*.
-  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,901 | 🐛 250 | 🌐 C++ | 📅 2026-10-04]
+  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,900 | 🐛 250 | 🌐 C++ | 📅 2026-10-05]
   ![](https://img.shields.io/badge/Self--SpecInfer-blue)
   ![](https://img.shields.io/badge/ASPLOS2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -624,7 +624,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Learning to Decode Collaboratively with Multiple Language Models**\
   *Zejiang Shen, Hunter Lang, Bailin Wang, Yoon Kim, David Sontag*.
-  \[[pdf](https://aclanthology.org/2024.acl-long.701.pdf)], \[[code](https://github.com/clinicalml/co-llm) ⭐ 130 | 🐛 5 | 🌐 Python | 📅 2024-05-07]
+  \[[pdf](https://aclanthology.org/2024.acl-long.701.pdf)], \[[code](https://github.com/clinicalml/co-llm) ⭐ 129 | 🐛 5 | 🌐 Python | 📅 2024-05-07]
   ![](https://img.shields.io/badge/Co--LLM-blue)
   ![](https://img.shields.io/badge/ACL2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -858,4 +858,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._

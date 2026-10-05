@@ -23,7 +23,7 @@
                     "open_issues": 9,
                     "owner": "voidism",
                     "repo": "DoLa",
-                    "stars": 560,
+                    "stars": 559,
                     "topics": [
                       "factuality",
                       "hallucinations",
@@ -223,7 +223,7 @@
                     "open_issues": 5,
                     "owner": "microsoft",
                     "repo": "monitors4codegen",
-                    "stars": 280,
+                    "stars": 279,
                     "topics": [
                       "ai",
                       "ai4code",
@@ -285,7 +285,7 @@
                     "open_issues": 10,
                     "owner": "huofushuo",
                     "repo": "SID",
-                    "stars": 138,
+                    "stars": 139,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -551,11 +551,11 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-04T18:41:58Z",
+                    "last_commit": "2026-10-05T20:42:45Z",
                     "open_issues": 250,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
-                    "stars": 1901,
+                    "stars": 1900,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -967,7 +967,7 @@
                         "open_issues": 5,
                         "owner": "clinicalml",
                         "repo": "co-llm",
-                        "stars": 130,
+                        "stars": 129,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:45:11.166Z",
+    "last_updated": "2026-10-05T22:09:03.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
