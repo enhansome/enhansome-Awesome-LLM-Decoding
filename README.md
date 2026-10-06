@@ -107,7 +107,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**\
   *Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He*.
-  \[[pdf](https://arxiv.org/pdf/2309.03883)], \[[code](https://github.com/voidism/DoLa) ⭐ 559 | 🐛 9 | 🌐 Python | 📅 2026-07-12]
+  \[[pdf](https://arxiv.org/pdf/2309.03883)], \[[code](https://github.com/voidism/DoLa) ⭐ 560 | 🐛 9 | 🌐 Python | 📅 2026-07-12]
   ![](https://img.shields.io/badge/DoLa-blue)
   ![](https://img.shields.io/badge/ICLR2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -708,7 +708,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **LEVER: Learning to Verify Language-to-Code Generation with Execution**\
   *Ansong Ni, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, Xi Victoria Lin*.
-  \[[pdf](https://proceedings.mlr.press/v202/ni23b/ni23b.pdf)], \[[code](https://github.com/niansong1996/lever) ⭐ 90 | 🐛 2 | 🌐 Python | 📅 2023-07-05]
+  \[[pdf](https://proceedings.mlr.press/v202/ni23b/ni23b.pdf)], \[[code](https://github.com/niansong1996/lever) ⭐ 89 | 🐛 2 | 🌐 Python | 📅 2023-07-05]
   ![](https://img.shields.io/badge/LEVER-blue)
   ![](https://img.shields.io/badge/ICML2023-brown)
   ![](https://img.shields.io/badge/LLM-red)
