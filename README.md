@@ -378,7 +378,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**\
   *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao*.
-  \[[pdf](https://arxiv.org/pdf/2401.10774)], \[[code](https://github.com/FasterDecoding/Medusa) ⭐ 2,770 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25]
+  \[[pdf](https://arxiv.org/pdf/2401.10774)], \[[code](https://github.com/FasterDecoding/Medusa) ⭐ 2,771 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25]
   ![](https://img.shields.io/badge/Medusa-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -406,7 +406,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Break the Sequential Dependency of LLM Inference Using Lookahead Decoding**\
   *Yichao Fu, Peter Bailis, Ion Stoica, Hao Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2402.02057)], \[[code](https://github.com/hao-ai-lab/LookaheadDecoding) ⭐ 1,341 | 🐛 34 | 🌐 Python | 📅 2025-03-06]
+  \[[pdf](https://arxiv.org/pdf/2402.02057)], \[[code](https://github.com/hao-ai-lab/LookaheadDecoding) ⭐ 1,342 | 🐛 34 | 🌐 Python | 📅 2025-03-06]
   ![](https://img.shields.io/badge/Lookahead-blue)
   ![](https://img.shields.io/badge/LLM-red)
 
@@ -519,7 +519,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation**\
   *Chenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, Shumin Deng, Huajun Chen*.
-  \[[pdf](https://arxiv.org/pdf/2410.11779)], \[[code](https://github.com/zjunlp/DeCo) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2025-09-11]
+  \[[pdf](https://arxiv.org/pdf/2410.11779)], \[[code](https://github.com/zjunlp/DeCo) ⭐ 148 | 🐛 0 | 🌐 Python | 📅 2025-09-11]
   ![](https://img.shields.io/badge/DeCo-blue)
   ![](https://img.shields.io/badge/LVLM-red)
 
@@ -858,4 +858,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

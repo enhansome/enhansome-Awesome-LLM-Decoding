@@ -481,7 +481,7 @@
                     "open_issues": 57,
                     "owner": "FasterDecoding",
                     "repo": "Medusa",
-                    "stars": 2770,
+                    "stars": 2771,
                     "topics": [
                       "llm",
                       "llm-inference"
@@ -576,7 +576,7 @@
                     "open_issues": 34,
                     "owner": "hao-ai-lab",
                     "repo": "LookaheadDecoding",
-                    "stars": 1341,
+                    "stars": 1342,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -774,7 +774,7 @@
                         "open_issues": 0,
                         "owner": "zjunlp",
                         "repo": "Deco",
-                        "stars": 147,
+                        "stars": 148,
                         "topics": [
                           "artificial-intelligence",
                           "decoding",
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:45:03.250Z",
+    "last_updated": "2026-10-08T20:47:31.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
