@@ -23,7 +23,7 @@
                     "open_issues": 9,
                     "owner": "voidism",
                     "repo": "DoLa",
-                    "stars": 560,
+                    "stars": 561,
                     "topics": [
                       "factuality",
                       "hallucinations",
@@ -597,7 +597,7 @@
                     "open_issues": 1,
                     "owner": "dilab-zju",
                     "repo": "self-speculative-decoding",
-                    "stars": 230,
+                    "stars": 229,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -737,7 +737,7 @@
                     "open_issues": 1,
                     "owner": "comeusr",
                     "repo": "diversed",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:47:31.958Z",
+    "last_updated": "2026-10-09T20:18:07.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",

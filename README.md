@@ -107,7 +107,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**\
   *Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He*.
-  \[[pdf](https://arxiv.org/pdf/2309.03883)], \[[code](https://github.com/voidism/DoLa) ⭐ 560 | 🐛 9 | 🌐 Python | 📅 2026-07-12]
+  \[[pdf](https://arxiv.org/pdf/2309.03883)], \[[code](https://github.com/voidism/DoLa) ⭐ 561 | 🐛 9 | 🌐 Python | 📅 2026-07-12]
   ![](https://img.shields.io/badge/DoLa-blue)
   ![](https://img.shields.io/badge/ICLR2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -412,7 +412,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Draft& Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**\
   *Jun Zhang, Jue Wang, Huan Li, Lidan Shou, Ke Chen, Gang Chen, Sharad Mehrotra*.
-  \[[pdf](https://aclanthology.org/2024.acl-long.607.pdf)], \[[code](https://github.com/dilab-zju/self-speculative-decoding) ⭐ 230 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-02-13]
+  \[[pdf](https://aclanthology.org/2024.acl-long.607.pdf)], \[[code](https://github.com/dilab-zju/self-speculative-decoding) ⭐ 229 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-02-13]
   ![](https://img.shields.io/badge/Self--Speculative-blue)
   ![](https://img.shields.io/badge/ACL2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -452,7 +452,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification**
   *Ziyi Wang, Siva Rajesh Kasa, Ankith M S, Santhosh Kumar Kasa, Jiaru Zou, Sumit Negi, Ruqi Zhang, Nan Jiang, Qifan Song*.
-  \[[pdf](https://arxiv.org/abs/2604.07622)], \[[code](https://github.com/comeusr/diversed) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-02-21]
+  \[[pdf](https://arxiv.org/abs/2604.07622)], \[[code](https://github.com/comeusr/diversed) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-02-21]
   ![](https://img.shields.io/badge/DIVERSED-blue)
   ![](https://img.shields.io/badge/AISTATS2026-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -858,4 +858,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
