@@ -505,7 +505,7 @@
                     "open_issues": 102,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2550,
+                    "stars": 2551,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -530,7 +530,7 @@
                     "open_issues": 102,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2550,
+                    "stars": 2551,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -551,11 +551,11 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T13:37:04Z",
+                    "last_commit": "2026-10-13T03:06:02Z",
                     "open_issues": 249,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
-                    "stars": 1901,
+                    "stars": 1903,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -576,7 +576,7 @@
                     "open_issues": 34,
                     "owner": "hao-ai-lab",
                     "repo": "LookaheadDecoding",
-                    "stars": 1342,
+                    "stars": 1343,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -597,7 +597,7 @@
                     "open_issues": 1,
                     "owner": "dilab-zju",
                     "repo": "self-speculative-decoding",
-                    "stars": 229,
+                    "stars": 230,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:34:05.055Z",
+    "last_updated": "2026-10-13T20:48:01.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
