@@ -23,7 +23,7 @@
                     "open_issues": 9,
                     "owner": "voidism",
                     "repo": "DoLa",
-                    "stars": 560,
+                    "stars": 562,
                     "topics": [
                       "factuality",
                       "hallucinations",
@@ -551,7 +551,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T00:18:51Z",
+                    "last_commit": "2026-10-15T19:17:41Z",
                     "open_issues": 249,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:38:15.997Z",
+    "last_updated": "2026-10-15T19:20:56.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
@@ -1346,7 +1346,7 @@
       "open_issues": 1,
       "owner": "wang2226",
       "repo": "Awesome-LLM-Decoding",
-      "stars": 76,
+      "stars": 77,
       "topics": [
         "awesome",
         "awesome-list",
