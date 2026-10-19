@@ -385,14 +385,14 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,555 | 🐛 102 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,556 | 🐛 102 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,555 | 🐛 102 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,556 | 🐛 102 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/EMNLP2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -715,7 +715,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Hot or Cold? Adaptive Temperature Sampling for Code Generation with Large Language Models**\
   *Yuqi Zhu, Jia Li, Ge Li, YunFei Zhao, Jia Li, Zhi Jin, Hong Mei*.
-  \[[pdf](https://arxiv.org/pdf/2309.02772)], \[[code](https://github.com/LJ2lijia/AdapT) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2023-12-28]
+  \[[pdf](https://arxiv.org/pdf/2309.02772)], \[[code](https://github.com/LJ2lijia/AdapT) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2023-12-28]
   ![](https://img.shields.io/badge/AdapT-blue)
   ![](https://img.shields.io/badge/AAAI2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -858,4 +858,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
