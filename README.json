@@ -502,7 +502,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-02-20T02:53:29Z",
-                    "open_issues": 103,
+                    "open_issues": 104,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
                     "stars": 2562,
@@ -527,7 +527,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-02-20T02:53:29Z",
-                    "open_issues": 103,
+                    "open_issues": 104,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
                     "stars": 2562,
@@ -551,7 +551,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-25T06:27:23Z",
+                    "last_commit": "2026-10-26T14:48:04Z",
                     "open_issues": 249,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -576,7 +576,7 @@
                     "open_issues": 34,
                     "owner": "hao-ai-lab",
                     "repo": "LookaheadDecoding",
-                    "stars": 1343,
+                    "stars": 1344,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:31:49.781Z",
+    "last_updated": "2026-10-26T20:42:43.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",

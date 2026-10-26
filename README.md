@@ -385,28 +385,28 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,562 | 🐛 103 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,562 | 🐛 104 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,562 | 🐛 103 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,562 | 🐛 104 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/EMNLP2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**\
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia*.
-  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,903 | 🐛 249 | 🌐 C++ | 📅 2026-10-25]
+  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,903 | 🐛 249 | 🌐 C++ | 📅 2026-10-26]
   ![](https://img.shields.io/badge/Self--SpecInfer-blue)
   ![](https://img.shields.io/badge/ASPLOS2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **Break the Sequential Dependency of LLM Inference Using Lookahead Decoding**\
   *Yichao Fu, Peter Bailis, Ion Stoica, Hao Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2402.02057)], \[[code](https://github.com/hao-ai-lab/LookaheadDecoding) ⭐ 1,343 | 🐛 34 | 🌐 Python | 📅 2025-03-06]
+  \[[pdf](https://arxiv.org/pdf/2402.02057)], \[[code](https://github.com/hao-ai-lab/LookaheadDecoding) ⭐ 1,344 | 🐛 34 | 🌐 Python | 📅 2025-03-06]
   ![](https://img.shields.io/badge/Lookahead-blue)
   ![](https://img.shields.io/badge/LLM-red)
 
@@ -858,4 +858,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
