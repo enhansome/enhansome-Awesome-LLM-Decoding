@@ -481,7 +481,7 @@
                     "open_issues": 57,
                     "owner": "FasterDecoding",
                     "repo": "Medusa",
-                    "stars": 2774,
+                    "stars": 2773,
                     "topics": [
                       "llm",
                       "llm-inference"
@@ -505,7 +505,7 @@
                     "open_issues": 103,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2563,
+                    "stars": 2564,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -530,7 +530,7 @@
                     "open_issues": 103,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2563,
+                    "stars": 2564,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -551,7 +551,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T06:02:35Z",
+                    "last_commit": "2026-10-29T10:32:23Z",
                     "open_issues": 249,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -774,7 +774,7 @@
                         "open_issues": 0,
                         "owner": "zjunlp",
                         "repo": "Deco",
-                        "stars": 148,
+                        "stars": 149,
                         "topics": [
                           "artificial-intelligence",
                           "decoding",
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:30:21.211Z",
+    "last_updated": "2026-10-29T20:29:50.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
