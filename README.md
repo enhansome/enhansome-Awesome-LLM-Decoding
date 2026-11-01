@@ -114,7 +114,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**\
   *Sicong Leng, Hang Zhang, Guanzheng Chen, Xin Li, Shijian Lu, Chunyan Miao, Lidong Bing*.
-  \[[pdf](https://arxiv.org/pdf/2311.16922)], \[[code](https://github.com/DAMO-NLP-SG/VCD) ⭐ 420 | 🐛 20 | 🌐 Python | 📅 2024-10-07]
+  \[[pdf](https://arxiv.org/pdf/2311.16922)], \[[code](https://github.com/DAMO-NLP-SG/VCD) ⭐ 421 | 🐛 20 | 🌐 Python | 📅 2024-10-07]
   ![](https://img.shields.io/badge/VCD-blue)
   ![](https://img.shields.io/badge/CVPR2024-brown)
   ![](https://img.shields.io/badge/LVLM-red)
@@ -385,28 +385,28 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,566 | 🐛 103 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,568 | 🐛 103 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,566 | 🐛 103 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,568 | 🐛 103 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/EMNLP2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**\
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia*.
-  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,903 | 🐛 249 | 🌐 C++ | 📅 2026-10-31]
+  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,903 | 🐛 249 | 🌐 C++ | 📅 2026-11-01]
   ![](https://img.shields.io/badge/Self--SpecInfer-blue)
   ![](https://img.shields.io/badge/ASPLOS2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **Break the Sequential Dependency of LLM Inference Using Lookahead Decoding**\
   *Yichao Fu, Peter Bailis, Ion Stoica, Hao Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2402.02057)], \[[code](https://github.com/hao-ai-lab/LookaheadDecoding) ⭐ 1,345 | 🐛 34 | 🌐 Python | 📅 2025-03-06]
+  \[[pdf](https://arxiv.org/pdf/2402.02057)], \[[code](https://github.com/hao-ai-lab/LookaheadDecoding) ⭐ 1,346 | 🐛 34 | 🌐 Python | 📅 2025-03-06]
   ![](https://img.shields.io/badge/Lookahead-blue)
   ![](https://img.shields.io/badge/LLM-red)
 
@@ -431,7 +431,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Online Speculative Decoding**\
   *Xiaoxuan Liu, Lanxiang Hu, Peter Bailis, Alvin Cheung, Zhijie Deng, Ion Stoica, Hao Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2310.07177)], \[[code](https://github.com/LiuXiaoxuanPKU/OSD) ⭐ 69 | 🐛 6 | 🌐 Python | 📅 2024-12-03]
+  \[[pdf](https://arxiv.org/pdf/2310.07177)], \[[code](https://github.com/LiuXiaoxuanPKU/OSD) ⭐ 68 | 🐛 6 | 🌐 Python | 📅 2024-12-03]
   ![](https://img.shields.io/badge/Online--Speculative-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -858,4 +858,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

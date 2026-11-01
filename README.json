@@ -48,7 +48,7 @@
                     "open_issues": 20,
                     "owner": "DAMO-NLP-SG",
                     "repo": "VCD",
-                    "stars": 420,
+                    "stars": 421,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -505,7 +505,7 @@
                     "open_issues": 103,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2566,
+                    "stars": 2568,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -530,7 +530,7 @@
                     "open_issues": 103,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2566,
+                    "stars": 2568,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -551,7 +551,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-31T03:43:58Z",
+                    "last_commit": "2026-11-01T13:09:28Z",
                     "open_issues": 249,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -576,7 +576,7 @@
                     "open_issues": 34,
                     "owner": "hao-ai-lab",
                     "repo": "LookaheadDecoding",
-                    "stars": 1345,
+                    "stars": 1346,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -671,7 +671,7 @@
                     "open_issues": 6,
                     "owner": "LiuXiaoxuanPKU",
                     "repo": "OSD",
-                    "stars": 69,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:29:46.560Z",
+    "last_updated": "2026-11-01T19:52:32.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
