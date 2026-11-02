@@ -252,7 +252,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **FUDGE: Controlled Text Generation With Future Discriminators**\
   *Kevin Yang, Dan Klein*.
-  \[[pdf](https://aclanthology.org/2021.naacl-main.276.pdf)], \[[code](https://github.com/yangkevin2/naacl-2021-fudge-controlled-generation) ⭐ 102 | 🐛 3 | 🌐 JavaScript | 📅 2022-08-24]
+  \[[pdf](https://aclanthology.org/2021.naacl-main.276.pdf)], \[[code](https://github.com/yangkevin2/naacl-2021-fudge-controlled-generation) ⭐ 103 | 🐛 3 | 🌐 JavaScript | 📅 2022-08-24]
   ![](https://img.shields.io/badge/FUDGE-blue)
   ![](https://img.shields.io/badge/NAACL2021-brown)
   ![](https://img.shields.io/badge/PLM-red)
@@ -378,7 +378,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**\
   *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao*.
-  \[[pdf](https://arxiv.org/pdf/2401.10774)], \[[code](https://github.com/FasterDecoding/Medusa) ⭐ 2,774 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25]
+  \[[pdf](https://arxiv.org/pdf/2401.10774)], \[[code](https://github.com/FasterDecoding/Medusa) ⭐ 2,773 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25]
   ![](https://img.shields.io/badge/Medusa-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -399,7 +399,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**\
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia*.
-  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,903 | 🐛 249 | 🌐 C++ | 📅 2026-11-01]
+  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,903 | 🐛 249 | 🌐 C++ | 📅 2026-11-02]
   ![](https://img.shields.io/badge/Self--SpecInfer-blue)
   ![](https://img.shields.io/badge/ASPLOS2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -858,4 +858,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
