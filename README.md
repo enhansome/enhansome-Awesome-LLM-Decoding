@@ -114,7 +114,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**\
   *Sicong Leng, Hang Zhang, Guanzheng Chen, Xin Li, Shijian Lu, Chunyan Miao, Lidong Bing*.
-  \[[pdf](https://arxiv.org/pdf/2311.16922)], \[[code](https://github.com/DAMO-NLP-SG/VCD) ⭐ 421 | 🐛 20 | 🌐 Python | 📅 2024-10-07]
+  \[[pdf](https://arxiv.org/pdf/2311.16922)], \[[code](https://github.com/DAMO-NLP-SG/VCD) ⭐ 422 | 🐛 20 | 🌐 Python | 📅 2024-10-07]
   ![](https://img.shields.io/badge/VCD-blue)
   ![](https://img.shields.io/badge/CVPR2024-brown)
   ![](https://img.shields.io/badge/LVLM-red)
@@ -252,7 +252,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **FUDGE: Controlled Text Generation With Future Discriminators**\
   *Kevin Yang, Dan Klein*.
-  \[[pdf](https://aclanthology.org/2021.naacl-main.276.pdf)], \[[code](https://github.com/yangkevin2/naacl-2021-fudge-controlled-generation) ⭐ 103 | 🐛 3 | 🌐 JavaScript | 📅 2022-08-24]
+  \[[pdf](https://aclanthology.org/2021.naacl-main.276.pdf)], \[[code](https://github.com/yangkevin2/naacl-2021-fudge-controlled-generation) ⭐ 104 | 🐛 3 | 🌐 JavaScript | 📅 2022-08-24]
   ![](https://img.shields.io/badge/FUDGE-blue)
   ![](https://img.shields.io/badge/NAACL2021-brown)
   ![](https://img.shields.io/badge/PLM-red)
@@ -399,7 +399,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**\
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia*.
-  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,903 | 🐛 249 | 🌐 C++ | 📅 2026-11-03]
+  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,903 | 🐛 249 | 🌐 C++ | 📅 2026-11-04]
   ![](https://img.shields.io/badge/Self--SpecInfer-blue)
   ![](https://img.shields.io/badge/ASPLOS2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -708,7 +708,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **LEVER: Learning to Verify Language-to-Code Generation with Execution**\
   *Ansong Ni, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, Xi Victoria Lin*.
-  \[[pdf](https://proceedings.mlr.press/v202/ni23b/ni23b.pdf)], \[[code](https://github.com/niansong1996/lever) ⭐ 89 | 🐛 2 | 🌐 Python | 📅 2023-07-05]
+  \[[pdf](https://proceedings.mlr.press/v202/ni23b/ni23b.pdf)], \[[code](https://github.com/niansong1996/lever) ⭐ 90 | 🐛 2 | 🌐 Python | 📅 2023-07-05]
   ![](https://img.shields.io/badge/LEVER-blue)
   ![](https://img.shields.io/badge/ICML2023-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -858,4 +858,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

@@ -48,7 +48,7 @@
                     "open_issues": 20,
                     "owner": "DAMO-NLP-SG",
                     "repo": "VCD",
-                    "stars": 421,
+                    "stars": 422,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -306,7 +306,7 @@
                     "open_issues": 3,
                     "owner": "yangkevin2",
                     "repo": "naacl-2021-fudge-controlled-generation",
-                    "stars": 103,
+                    "stars": 104,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -551,7 +551,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-03T15:39:33Z",
+                    "last_commit": "2026-11-04T20:23:10Z",
                     "open_issues": 249,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -1169,7 +1169,7 @@
                         "open_issues": 2,
                         "owner": "niansong1996",
                         "repo": "lever",
-                        "stars": 89,
+                        "stars": 90,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:13:41.926Z",
+    "last_updated": "2026-11-04T21:27:31.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
