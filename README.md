@@ -107,7 +107,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**\
   *Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He*.
-  \[[pdf](https://arxiv.org/pdf/2309.03883)], \[[code](https://github.com/voidism/DoLa) ⭐ 562 | 🐛 9 | 🌐 Python | 📅 2026-07-12]
+  \[[pdf](https://arxiv.org/pdf/2309.03883)], \[[code](https://github.com/voidism/DoLa) ⭐ 563 | 🐛 9 | 🌐 Python | 📅 2026-07-12]
   ![](https://img.shields.io/badge/DoLa-blue)
   ![](https://img.shields.io/badge/ICLR2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -399,7 +399,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**\
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia*.
-  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,903 | 🐛 249 | 🌐 C++ | 📅 2026-11-05]
+  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,904 | 🐛 250 | 🌐 C++ | 📅 2026-11-06]
   ![](https://img.shields.io/badge/Self--SpecInfer-blue)
   ![](https://img.shields.io/badge/ASPLOS2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -412,7 +412,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Draft& Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**\
   *Jun Zhang, Jue Wang, Huan Li, Lidan Shou, Ke Chen, Gang Chen, Sharad Mehrotra*.
-  \[[pdf](https://aclanthology.org/2024.acl-long.607.pdf)], \[[code](https://github.com/dilab-zju/self-speculative-decoding) ⭐ 230 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-02-13]
+  \[[pdf](https://aclanthology.org/2024.acl-long.607.pdf)], \[[code](https://github.com/dilab-zju/self-speculative-decoding) ⭐ 231 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-02-13]
   ![](https://img.shields.io/badge/Self--Speculative-blue)
   ![](https://img.shields.io/badge/ACL2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -783,7 +783,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**\
   *Haotian Tang, Yecheng Wu, Shang Yang, Enze Xie, Junsong Chen, Junyu Chen, Zhuoyang Zhang, Han Cai, Yao Lu, Song Han*.
-  \[[pdf](https://arxiv.org/pdf/2410.10812)], \[[code](https://github.com/mit-han-lab/hart) ⭐ 649 | 🐛 21 | 🌐 Python | 📅 2024-10-16]
+  \[[pdf](https://arxiv.org/pdf/2410.10812)], \[[code](https://github.com/mit-han-lab/hart) ⭐ 650 | 🐛 21 | 🌐 Python | 📅 2024-10-16]
   ![](https://img.shields.io/badge/HART-blue)
   ![](https://img.shields.io/badge/LVLM-red)
 
@@ -858,4 +858,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

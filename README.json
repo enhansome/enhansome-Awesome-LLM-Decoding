@@ -23,7 +23,7 @@
                     "open_issues": 9,
                     "owner": "voidism",
                     "repo": "DoLa",
-                    "stars": 562,
+                    "stars": 563,
                     "topics": [
                       "factuality",
                       "hallucinations",
@@ -551,11 +551,11 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-05T20:45:21Z",
-                    "open_issues": 249,
+                    "last_commit": "2026-11-06T11:13:57Z",
+                    "open_issues": 250,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
-                    "stars": 1903,
+                    "stars": 1904,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -597,7 +597,7 @@
                     "open_issues": 1,
                     "owner": "dilab-zju",
                     "repo": "self-speculative-decoding",
-                    "stars": 230,
+                    "stars": 231,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1274,7 +1274,7 @@
                         "open_issues": 21,
                         "owner": "mit-han-lab",
                         "repo": "hart",
-                        "stars": 649,
+                        "stars": 650,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:32:04.800Z",
+    "last_updated": "2026-11-06T21:00:24.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
@@ -1343,7 +1343,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-09-23T06:01:45Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "wang2226",
       "repo": "Awesome-LLM-Decoding",
       "stars": 77,
