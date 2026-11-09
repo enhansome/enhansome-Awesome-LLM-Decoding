@@ -399,7 +399,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**\
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia*.
-  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,903 | 🐛 250 | 🌐 C++ | 📅 2026-11-08]
+  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,903 | 🐛 250 | 🌐 C++ | 📅 2026-11-09]
   ![](https://img.shields.io/badge/Self--SpecInfer-blue)
   ![](https://img.shields.io/badge/ASPLOS2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -519,7 +519,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation**\
   *Chenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, Shumin Deng, Huajun Chen*.
-  \[[pdf](https://arxiv.org/pdf/2410.11779)], \[[code](https://github.com/zjunlp/DeCo) ⭐ 150 | 🐛 1 | 🌐 Python | 📅 2025-09-11]
+  \[[pdf](https://arxiv.org/pdf/2410.11779)], \[[code](https://github.com/zjunlp/DeCo) ⭐ 150 | 🐛 0 | 🌐 Python | 📅 2025-09-11]
   ![](https://img.shields.io/badge/DeCo-blue)
   ![](https://img.shields.io/badge/LVLM-red)
 
@@ -582,7 +582,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation**\
   *Haoran Wang, Xiongxiao Xu, Baixiang Huang, Kai Shu*.
-  \[[pdf](https://dl.acm.org/doi/epdf/10.1145/3770855.3817665)], \[[code](https://github.com/wang2226/PAD) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-08-06]
+  \[[pdf](https://dl.acm.org/doi/epdf/10.1145/3770855.3817665)], \[[code](https://github.com/wang2226/PAD) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2025-08-06]
   ![](https://img.shields.io/badge/KDD2026-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
@@ -680,7 +680,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **REST: Retrieval-Based Speculative Decoding**\
   *Zhenyu He, Zexuan Zhong, Tianle Cai, Jason Lee, Di He*.
-  \[[pdf](https://aclanthology.org/2024.naacl-long.88.pdf)], \[[code](https://github.com/FasterDecoding/REST) ⭐ 220 | 🐛 15 | 🌐 C | 📅 2026-03-05]
+  \[[pdf](https://aclanthology.org/2024.naacl-long.88.pdf)], \[[code](https://github.com/FasterDecoding/REST) ⭐ 221 | 🐛 15 | 🌐 C | 📅 2026-03-05]
   ![](https://img.shields.io/badge/REST-blue)
   ![](https://img.shields.io/badge/NAACL2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -858,4 +858,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._

@@ -551,7 +551,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T18:30:30Z",
+                    "last_commit": "2026-11-09T22:42:18Z",
                     "open_issues": 250,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -771,7 +771,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2025-09-11T02:18:25Z",
-                        "open_issues": 1,
+                        "open_issues": 0,
                         "owner": "zjunlp",
                         "repo": "Deco",
                         "stars": 150,
@@ -939,7 +939,7 @@
                         "open_issues": 1,
                         "owner": "wang2226",
                         "repo": "PAD",
-                        "stars": 8,
+                        "stars": 9,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1074,7 +1074,7 @@
                         "open_issues": 15,
                         "owner": "FasterDecoding",
                         "repo": "REST",
-                        "stars": 220,
+                        "stars": 221,
                         "topics": [
                           "llm-inference",
                           "retrieval",
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:54:33.290Z",
+    "last_updated": "2026-11-09T23:50:22.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
