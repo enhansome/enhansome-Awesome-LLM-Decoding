@@ -48,7 +48,7 @@
                     "open_issues": 20,
                     "owner": "DAMO-NLP-SG",
                     "repo": "VCD",
-                    "stars": 423,
+                    "stars": 424,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -213,7 +213,7 @@
                   "description": "], [code]",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "Code and Data artifact for NeurIPS 2023 paper - \"Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context\". `multispy` is a lsp client library in Python intended to be used to build applications around language servers.",
                     "homepage": "https://www.microsoft.com/en-us/research/publication/guiding-language-models-of-code-with-global-context-using-monitors/",
                     "id": 714439630,
@@ -285,7 +285,7 @@
                     "open_issues": 10,
                     "owner": "huofushuo",
                     "repo": "SID",
-                    "stars": 139,
+                    "stars": 141,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -481,7 +481,7 @@
                     "open_issues": 57,
                     "owner": "FasterDecoding",
                     "repo": "Medusa",
-                    "stars": 2773,
+                    "stars": 2775,
                     "topics": [
                       "llm",
                       "llm-inference"
@@ -505,7 +505,7 @@
                     "open_issues": 104,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2574,
+                    "stars": 2577,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -530,7 +530,7 @@
                     "open_issues": 104,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2574,
+                    "stars": 2577,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -551,11 +551,11 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T20:53:55Z",
-                    "open_issues": 250,
+                    "last_commit": "2026-11-11T21:57:05Z",
+                    "open_issues": 251,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
-                    "stars": 1903,
+                    "stars": 1902,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:23:53.005Z",
+    "last_updated": "2026-11-11T22:17:15.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
