@@ -551,7 +551,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T00:46:40Z",
+                    "last_commit": "2026-11-13T20:21:26Z",
                     "open_issues": 251,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:54:19.533Z",
+    "last_updated": "2026-11-13T21:32:35.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
