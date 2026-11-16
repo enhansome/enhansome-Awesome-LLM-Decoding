@@ -378,7 +378,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**\
   *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao*.
-  \[[pdf](https://arxiv.org/pdf/2401.10774)], \[[code](https://github.com/FasterDecoding/Medusa) ⭐ 2,775 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25]
+  \[[pdf](https://arxiv.org/pdf/2401.10774)], \[[code](https://github.com/FasterDecoding/Medusa) ⭐ 2,776 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25]
   ![](https://img.shields.io/badge/Medusa-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -399,7 +399,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**\
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia*.
-  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,901 | 🐛 251 | 🌐 C++ | 📅 2026-11-15]
+  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,901 | 🐛 251 | 🌐 C++ | 📅 2026-11-16]
   ![](https://img.shields.io/badge/Self--SpecInfer-blue)
   ![](https://img.shields.io/badge/ASPLOS2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -569,7 +569,7 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **SafeInfer: Context Adaptive Decoding Time Safety Alignment for Large Language Models**\
   *Somnath Banerjee, Sayan Layek, Soham Tripathy, Shanu Kumar, Animesh Mukherjee, Rima Hazra*.
-  \[[pdf](https://arxiv.org/pdf/2406.12274)], \[[code](https://github.com/NeuralSentinel/SafeInfer) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-01-14]
+  \[[pdf](https://arxiv.org/pdf/2406.12274)], \[[code](https://github.com/NeuralSentinel/SafeInfer) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-01-14]
   ![](https://img.shields.io/badge/SafeInfer-blue)
   ![](https://img.shields.io/badge/AAAI2025-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -858,4 +858,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
