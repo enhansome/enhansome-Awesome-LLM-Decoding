@@ -48,7 +48,7 @@
                     "open_issues": 20,
                     "owner": "DAMO-NLP-SG",
                     "repo": "VCD",
-                    "stars": 424,
+                    "stars": 425,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -481,7 +481,7 @@
                     "open_issues": 57,
                     "owner": "FasterDecoding",
                     "repo": "Medusa",
-                    "stars": 2776,
+                    "stars": 2774,
                     "topics": [
                       "llm",
                       "llm-inference"
@@ -551,7 +551,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T21:19:38Z",
+                    "last_commit": "2026-11-20T21:55:44Z",
                     "open_issues": 252,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -576,7 +576,7 @@
                     "open_issues": 34,
                     "owner": "hao-ai-lab",
                     "repo": "LookaheadDecoding",
-                    "stars": 1346,
+                    "stars": 1344,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:44:30.979Z",
+    "last_updated": "2026-11-20T22:18:54.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
