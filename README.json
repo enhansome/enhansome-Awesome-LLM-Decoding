@@ -223,7 +223,7 @@
                     "open_issues": 5,
                     "owner": "microsoft",
                     "repo": "monitors4codegen",
-                    "stars": 279,
+                    "stars": 278,
                     "topics": [
                       "ai",
                       "ai4code",
@@ -505,7 +505,7 @@
                     "open_issues": 104,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2581,
+                    "stars": 2583,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -530,7 +530,7 @@
                     "open_issues": 104,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2581,
+                    "stars": 2583,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -551,7 +551,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T21:55:44Z",
+                    "last_commit": "2026-11-22T14:23:25Z",
                     "open_issues": 252,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -576,7 +576,7 @@
                     "open_issues": 34,
                     "owner": "hao-ai-lab",
                     "repo": "LookaheadDecoding",
-                    "stars": 1344,
+                    "stars": 1345,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:02:55.545Z",
+    "last_updated": "2026-11-22T21:11:05.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
