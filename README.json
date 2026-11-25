@@ -139,6 +139,35 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient ReasoningMinghao Luo, Liang Chen. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Training-free contrastive decoding for efficient LLM reasoning: shorter chain-of-thought (CoT), less overthinking, and fewer reasoning tokens.",
+                    "homepage": "https://arxiv.org/abs/2610.18862",
+                    "id": 1409880012,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-15T08:32:26Z",
+                    "open_issues": 0,
+                    "owner": "leoluolol",
+                    "repo": "DoubtLess",
+                    "stars": 3,
+                    "topics": [
+                      "chain-of-thought",
+                      "contrastive-decoding",
+                      "cot-compression",
+                      "efficient-reasoning",
+                      "overthinking",
+                      "reasoning-models",
+                      "training-free"
+                    ]
+                  },
+                  "first_seen": "2026-11-25T00:03:29.940Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "ROSE Doesn't Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive DecodingQihuang Zhong, Liang Ding, Juhua Liu, Bo Du, Dacheng Tao. [pdf",
                   "description": "], [code]",
                   "children": [],
@@ -505,7 +534,7 @@
                     "open_issues": 104,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2583,
+                    "stars": 2584,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -530,7 +559,7 @@
                     "open_issues": 104,
                     "owner": "SafeAILab",
                     "repo": "EAGLE",
-                    "stars": 2583,
+                    "stars": 2584,
                     "topics": [
                       "large-language-models",
                       "llm-inference",
@@ -551,7 +580,7 @@
                     "id": 160988469,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-23T16:21:31Z",
+                    "last_commit": "2026-11-24T20:51:52Z",
                     "open_issues": 252,
                     "owner": "flexflow",
                     "repo": "flexflow-train",
@@ -699,6 +728,45 @@
                     ]
                   },
                   "first_seen": "2026-08-29T00:04:37.973Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Empirical Analysis of Decoding Biases in Masked Diffusion Models Pengcheng Huang, Tianming Liu, Zhenghao Liu, Yukun Yan, Shuo Wang, Tong Xiao, Zulong Chen, Maosong Sun. [pdf",
+                  "description": "], [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ACL '26] UNCODE (a.k.a. PC-Sampler): training-free decoding calibration for masked diffusion LLMs. Code for \"Empirical Analysis of Decoding Biases in Masked Diffusion Models\"",
+                    "homepage": "https://passionate11.github.io/Uncode-project-page/",
+                    "id": 1038967507,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-19T03:09:43Z",
+                    "open_issues": 0,
+                    "owner": "NEUIR",
+                    "repo": "Uncode",
+                    "stars": 46,
+                    "topics": [
+                      "acl2026",
+                      "decoding",
+                      "diffusion-language-models",
+                      "diffusion-llm",
+                      "discrete-diffusion",
+                      "dllm",
+                      "llada",
+                      "llm",
+                      "masked-diffusion-models",
+                      "nlp",
+                      "non-autoregressive",
+                      "pc-sampler",
+                      "reasoning",
+                      "sampling",
+                      "text-generation",
+                      "training-free",
+                      "uncode"
+                    ]
+                  },
+                  "first_seen": "2026-11-25T00:03:29.940Z"
                 },
                 {
                   "node_type": "item",
@@ -1334,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:31:22.804Z",
+    "last_updated": "2026-11-25T00:03:29.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "📜 Paper list on decoding methods for LLMs and LVLMs ",
@@ -1342,8 +1410,8 @@
       "id": 904466263,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-09-23T06:01:45Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-24T20:33:38Z",
+      "open_issues": 0,
       "owner": "wang2226",
       "repo": "Awesome-LLM-Decoding",
       "stars": 77,
@@ -1357,7 +1425,7 @@
         "nlp"
       ]
     },
-    "original_repository_sha": "f0fd6898a9dafebf6745a7781d69025127c7868c",
+    "original_repository_sha": "5a67c48063d1bf1086f1c1dedb59c8186bf92d51",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Decoding",
     "enhanced_repository_description": null,
     "title": "Awesome-L(V)LM-Decoding with stars"
