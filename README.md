@@ -384,28 +384,28 @@ Model: ![](https://img.shields.io/badge/LLM-red)
 
 * **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**\
   *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao*.
-  \[[pdf](https://arxiv.org/pdf/2401.10774)], \[[code](https://github.com/FasterDecoding/Medusa) ⭐ 2,774 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25]
+  \[[pdf](https://arxiv.org/pdf/2401.10774)], \[[code](https://github.com/FasterDecoding/Medusa) ⭐ 2,776 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25]
   ![](https://img.shields.io/badge/Medusa-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,584 | 🐛 104 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2401.15077)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,586 | 🐛 104 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/ICML2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**\
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*.
-  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,584 | 🐛 104 | 🌐 Python | 📅 2026-02-20]
+  \[[pdf](https://arxiv.org/pdf/2406.16858)], \[[code](https://github.com/SafeAILab/EAGLE) ⭐ 2,586 | 🐛 104 | 🌐 Python | 📅 2026-02-20]
   ![](https://img.shields.io/badge/Eagle-blue)
   ![](https://img.shields.io/badge/EMNLP2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
 
 * **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**\
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia*.
-  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,901 | 🐛 252 | 🌐 C++ | 📅 2026-11-25]
+  \[[pdf](https://arxiv.org/pdf/2305.09781)], \[[code](https://github.com/flexflow/flexflow-train) ⭐ 1,901 | 🐛 252 | 🌐 C++ | 📅 2026-11-26]
   ![](https://img.shields.io/badge/Self--SpecInfer-blue)
   ![](https://img.shields.io/badge/ASPLOS2024-brown)
   ![](https://img.shields.io/badge/LLM-red)
@@ -871,4 +871,4 @@ numpages = {20}
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
